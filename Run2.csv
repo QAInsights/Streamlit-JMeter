@@ -1,0 +1,919 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1574913927814,489,www.amazon.com,200,OK,Thread Group 1-1,text,true,,90921,119,1,1,https://www.amazon.com/,254,0,162
+1574913928305,616,www.kohls.com,200,OK,Thread Group 1-1,text,true,,337181,118,1,1,https://www.kohls.com/,301,0,124
+1574913928922,369,www.walmart.com,200,OK,Thread Group 1-1,text,true,,156574,120,1,1,https://www.walmart.com/,276,0,139
+1574913929293,641,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1418261,122,1,1,https://www.walgreens.com/,289,0,132
+1574913929936,354,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,209365,122,1,1,https://www.homedepot.com/,231,0,125
+1574913930291,701,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128715,252,1,1,https://www.wholefoodsmarket.com/,392,0,363
+1574913930291,392,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,392,0,363
+1574913930684,308,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128408,129,1,1,https://www.wholefoodsmarket.com/,151,0,122
+1574913930994,264,www.apple.com,200,OK,Thread Group 1-1,text,true,,85401,118,1,1,https://www.apple.com/,196,0,164
+1574913931259,416,www.samsung.com,200,OK,Thread Group 1-1,text,true,,206681,243,1,1,https://www.samsung.com/us/,167,0,127
+1574913931259,167,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,167,0,127
+1574913931426,249,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,206267,123,1,1,https://www.samsung.com/us/,63,0,0
+1574913931677,658,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,254,0,184
+1574913931677,254,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,254,0,184
+1574913931931,404,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,360,0,0
+1574913932336,803,store.google.com,200,OK,Thread Group 1-1,text,true,,2038054,121,1,1,https://store.google.com/,293,0,190
+1574913933140,541,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244568,119,1,1,https://www.sprint.com/,256,0,172
+1574913933683,305,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52807,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,243,0,156
+1574913933683,243,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,243,0,156
+1574913933926,62,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52630,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,33,0,0
+1574913933989,388,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,346061,121,1,1,https://www.samsclub.com/,189,0,128
+1574913934378,488,www.sears.com,200,OK,Thread Group 1-1,text,true,,116956,118,1,1,https://www.sears.com/,367,0,184
+1574913934871,421,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83742,118,1,1,https://www.kmart.com/,326,0,177
+1574913935293,1185,www.staples.com,200,OK,Thread Group 1-1,text,true,,556568,120,1,1,https://www.staples.com/,772,0,333
+1574913936479,350,www.dell.com,200,OK,Thread Group 1-1,text,true,,197105,239,1,1,https://www.dell.com/en-us,167,0,132
+1574913936479,167,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,167,0,132
+1574913936647,182,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,195574,122,1,1,https://www.dell.com/en-us,45,0,0
+1574913936831,871,www.target.com,200,OK,Thread Group 1-1,text,true,,300600,119,1,1,https://www.target.com/,322,0,272
+1574913937703,416,www.bjs.com,200,OK,Thread Group 1-1,text,true,,715260,116,1,1,https://www.bjs.com/,157,0,128
+1574913938121,384,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,232470,244,1,1,https://www.lenovo.com/us/en/,166,0,128
+1574913938121,166,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,166,0,128
+1574913938287,218,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,231366,125,1,1,https://www.lenovo.com/us/en/,83,0,0
+1574913938506,367,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,442933,126,1,1,https://www.harborfreight.com/,176,0,139
+1574913938875,357,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,182066,131,1,1,https://www.dickssportinggoods.com/,206,0,130
+1574952904869,1007,www.amazon.com,200,OK,Thread Group 1-1,text,true,,90481,119,1,1,https://www.amazon.com/,781,0,565
+1574952905879,901,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396347,118,1,1,https://www.kohls.com/,382,0,246
+1574952906782,1558,www.walmart.com,200,OK,Thread Group 1-1,text,true,,195682,120,1,1,https://www.walmart.com/,1434,0,1130
+1574952908342,678,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1418408,122,1,1,https://www.walgreens.com/,321,0,134
+1574952909022,525,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214446,122,1,1,https://www.homedepot.com/,341,0,129
+1574952909548,454,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128819,252,1,1,https://www.wholefoodsmarket.com/,219,0,192
+1574952909548,219,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,219,0,192
+1574952909767,235,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128512,129,1,1,https://www.wholefoodsmarket.com/,152,0,124
+1574952910004,287,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,172,0,138
+1574952910292,1683,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220048,243,1,1,https://www.samsung.com/us/,1417,0,1380
+1574952910292,1417,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,1417,0,1380
+1574952911711,264,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219634,123,1,1,https://www.samsung.com/us/,48,0,0
+1574952911977,452,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,197,0,143
+1574952911977,197,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,197,0,143
+1574952912174,255,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,216,0,0
+1574952912431,656,store.google.com,200,OK,Thread Group 1-1,text,true,,2028097,121,1,1,https://store.google.com/,215,0,131
+1574952913088,420,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244574,119,1,1,https://www.sprint.com/,285,0,206
+1574952913509,447,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,376,0,119
+1574952913509,376,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,376,0,119
+1574952913885,71,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,42,0,0
+1574952913958,425,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312675,121,1,1,https://www.samsclub.com/,250,0,187
+1574952914385,394,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,329,0,178
+1574952914781,383,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83493,118,1,1,https://www.kmart.com/,329,0,199
+1574952915166,591,www.staples.com,200,OK,Thread Group 1-1,text,true,,560974,120,1,1,https://www.staples.com/,424,0,124
+1574952915766,390,www.dell.com,200,OK,Thread Group 1-1,text,true,,197136,239,1,1,https://www.dell.com/en-us,217,0,174
+1574952915766,217,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,217,0,174
+1574952915983,173,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,195605,122,1,1,https://www.dell.com/en-us,71,0,0
+1574952916158,300,www.target.com,200,OK,Thread Group 1-1,text,true,,282202,119,1,1,https://www.target.com/,167,0,121
+1574952916459,1425,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6433858,116,1,1,https://www.bjs.com/,178,0,140
+1574952917886,370,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230203,244,1,1,https://www.lenovo.com/us/en/,190,0,150
+1574952917886,190,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,190,0,150
+1574952918076,180,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229099,125,1,1,https://www.lenovo.com/us/en/,64,0,0
+1574952918257,368,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495204,126,1,1,https://www.harborfreight.com/,157,0,123
+1574952918627,307,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,164671,131,1,1,https://www.dickssportinggoods.com/,180,0,126
+1574954874862,393,www.amazon.com,200,OK,Thread Group 1-1,text,true,,89964,119,1,1,https://www.amazon.com/,264,0,156
+1574954875257,607,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396166,118,1,1,https://www.kohls.com/,249,0,137
+1574954875865,556,www.walmart.com,200,OK,Thread Group 1-1,text,true,,195653,120,1,1,https://www.walmart.com/,434,0,141
+1574954876422,937,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1418326,122,1,1,https://www.walgreens.com/,303,0,146
+1574954877365,423,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214435,122,1,1,https://www.homedepot.com/,270,0,125
+1574954877790,567,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128820,252,1,1,https://www.wholefoodsmarket.com/,218,0,174
+1574954877790,218,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,218,0,174
+1574954878009,348,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128513,129,1,1,https://www.wholefoodsmarket.com/,236,0,196
+1574954878359,270,www.apple.com,200,OK,Thread Group 1-1,text,true,,85403,118,1,1,https://www.apple.com/,197,0,161
+1574954878631,527,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220036,243,1,1,https://www.samsung.com/us/,223,0,188
+1574954878631,223,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,223,0,188
+1574954878854,304,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219622,123,1,1,https://www.samsung.com/us/,49,0,0
+1574954879160,727,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,238,0,157
+1574954879160,238,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,238,0,157
+1574954879399,488,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,447,0,0
+1574954879889,1112,store.google.com,200,OK,Thread Group 1-1,text,true,,2028077,121,1,1,https://store.google.com/,333,0,219
+1574954881002,411,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244569,119,1,1,https://www.sprint.com/,249,0,164
+1574954881414,305,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,231,0,140
+1574954881414,231,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,231,0,140
+1574954881645,74,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,45,0,0
+1574954881720,1545,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312675,121,1,1,https://www.samsclub.com/,1262,0,1221
+1574954883266,425,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,348,0,163
+1574954883692,258,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83703,118,1,1,https://www.kmart.com/,200,0,164
+1574954883951,698,www.staples.com,200,OK,Thread Group 1-1,text,true,,560886,120,1,1,https://www.staples.com/,414,0,137
+1574954884651,373,www.dell.com,200,OK,Thread Group 1-1,text,true,,197074,239,1,1,https://www.dell.com/en-us,190,0,146
+1574954884651,190,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,190,0,146
+1574954884841,183,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,195605,122,1,1,https://www.dell.com/en-us,71,0,0
+1574954885026,378,www.target.com,200,OK,Thread Group 1-1,text,true,,282202,119,1,1,https://www.target.com/,221,0,170
+1574954885405,1960,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6433756,116,1,1,https://www.bjs.com/,226,0,177
+1574954887367,601,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230206,244,1,1,https://www.lenovo.com/us/en/,263,0,222
+1574954887367,263,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,263,0,222
+1574954887630,338,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229102,125,1,1,https://www.lenovo.com/us/en/,99,0,0
+1574954887971,478,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495216,126,1,1,https://www.harborfreight.com/,200,0,161
+1574954888451,380,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175303,131,1,1,https://www.dickssportinggoods.com/,258,0,182
+1574956762191,1655,www.amazon.com,200,OK,Thread Group 1-1,text,true,,94542,119,1,1,https://www.amazon.com/,1428,0,1327
+1574956763848,698,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396142,118,1,1,https://www.kohls.com/,270,0,162
+1574956764547,575,www.walmart.com,200,OK,Thread Group 1-1,text,true,,195243,120,1,1,https://www.walmart.com/,456,0,202
+1574956765127,1225,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1418369,122,1,1,https://www.walgreens.com/,486,0,182
+1574956766353,465,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214452,122,1,1,https://www.homedepot.com/,368,0,231
+1574956766820,624,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128819,252,1,1,https://www.wholefoodsmarket.com/,281,0,233
+1574956766820,281,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,281,0,233
+1574956767102,342,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128512,129,1,1,https://www.wholefoodsmarket.com/,246,0,200
+1574956767446,338,www.apple.com,200,OK,Thread Group 1-1,text,true,,85403,118,1,1,https://www.apple.com/,280,0,202
+1574956767785,577,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220036,243,1,1,https://www.samsung.com/us/,316,0,247
+1574956767785,316,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,316,0,247
+1574956768101,261,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219622,123,1,1,https://www.samsung.com/us/,85,0,0
+1574956768364,813,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,362,0,294
+1574956768364,362,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,362,0,294
+1574956768726,451,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,403,0,0
+1574956769179,1002,store.google.com,200,OK,Thread Group 1-1,text,true,,2028062,121,1,1,https://store.google.com/,421,0,279
+1574956770183,499,www.sprint.com,200,OK,Thread Group 1-1,text,true,,246615,119,1,1,https://www.sprint.com/,344,0,133
+1574956770684,304,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,232,0,144
+1574956770684,232,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,232,0,144
+1574956770916,72,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,38,0,0
+1574956770990,377,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312689,121,1,1,https://www.samsclub.com/,192,0,147
+1574956771369,324,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,244,0,192
+1574956771697,344,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,253,0,202
+1574956772044,972,www.staples.com,200,OK,Thread Group 1-1,text,true,,561014,120,1,1,https://www.staples.com/,634,0,157
+1574956773018,368,www.dell.com,200,OK,Thread Group 1-1,text,true,,197074,239,1,1,https://www.dell.com/en-us,197,0,151
+1574956773018,197,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,197,0,151
+1574956773215,171,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,195605,122,1,1,https://www.dell.com/en-us,68,0,0
+1574956773388,363,www.target.com,200,OK,Thread Group 1-1,text,true,,282158,119,1,1,https://www.target.com/,207,0,153
+1574956773753,1981,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6433857,116,1,1,https://www.bjs.com/,179,0,137
+1574956775743,1089,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230239,244,1,1,https://www.lenovo.com/us/en/,753,0,518
+1574956775743,753,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,753,0,518
+1574956776496,336,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229135,125,1,1,https://www.lenovo.com/us/en/,120,0,0
+1574956776836,823,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495216,126,1,1,https://www.harborfreight.com/,619,0,502
+1574956777661,5037,www.dickssportinggoods.com,Non HTTP response code: org.apache.http.conn.ConnectTimeoutException,Non HTTP response message: Connect to www.dickssportinggoods.com:443 [www.dickssportinggoods.com/23.63.167.148] failed: connect timed out,Thread Group 1-1,text,false,,2877,0,1,1,https://www.dickssportinggoods.com/,0,0,5037
+1574958308603,435,www.amazon.com,200,OK,Thread Group 1-1,text,true,,94948,119,1,1,https://www.amazon.com/,307,0,198
+1574958309040,525,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396188,118,1,1,https://www.kohls.com/,242,0,146
+1574958309566,535,www.walmart.com,200,OK,Thread Group 1-1,text,true,,196518,120,1,1,https://www.walmart.com/,428,0,145
+1574958310103,1398,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1431640,122,1,1,https://www.walgreens.com/,894,0,269
+1574958311503,459,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214453,122,1,1,https://www.homedepot.com/,351,0,204
+1574958311964,506,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128818,252,1,1,https://www.wholefoodsmarket.com/,221,0,163
+1574958311964,221,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,221,0,163
+1574958312186,284,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128511,129,1,1,https://www.wholefoodsmarket.com/,193,0,137
+1574958312472,220,www.apple.com,200,OK,Thread Group 1-1,text,true,,85429,118,1,1,https://www.apple.com/,157,0,123
+1574958312693,477,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220047,243,1,1,https://www.samsung.com/us/,163,0,129
+1574958312693,163,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,163,0,129
+1574958312857,313,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219633,123,1,1,https://www.samsung.com/us/,80,0,0
+1574958313172,804,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,222,0,158
+1574958313172,222,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,222,0,158
+1574958313394,582,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,541,0,0
+1574958313984,904,store.google.com,200,OK,Thread Group 1-1,text,true,,2028069,121,1,1,https://store.google.com/,348,0,238
+1574958314889,383,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244565,119,1,1,https://www.sprint.com/,222,0,135
+1574958315274,281,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,213,0,131
+1574958315274,213,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,213,0,131
+1574958315487,68,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,31,0,0
+1574958315557,382,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312686,121,1,1,https://www.samsclub.com/,221,0,179
+1574958315940,271,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,197,0,156
+1574958316215,259,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,206,0,164
+1574958316476,555,www.staples.com,200,OK,Thread Group 1-1,text,true,,560922,120,1,1,https://www.staples.com/,387,0,128
+1574958317032,316,www.dell.com,200,OK,Thread Group 1-1,text,true,,197074,239,1,1,https://www.dell.com/en-us,161,0,122
+1574958317032,162,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,161,0,122
+1574958317194,154,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,195605,122,1,1,https://www.dell.com/en-us,45,0,0
+1574958317350,412,www.target.com,200,OK,Thread Group 1-1,text,true,,282158,119,1,1,https://www.target.com/,162,0,119
+1574958317763,2691,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6429444,116,1,1,https://www.bjs.com/,202,0,150
+1574958320456,433,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230330,244,1,1,https://www.lenovo.com/us/en/,180,0,136
+1574958320456,180,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,180,0,136
+1574958320636,253,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229226,125,1,1,https://www.lenovo.com/us/en/,119,0,0
+1574958320890,1573,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495204,126,1,1,https://www.harborfreight.com/,1339,0,1285
+1574958322465,368,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175279,131,1,1,https://www.dickssportinggoods.com/,254,0,160
+1574959758915,526,www.amazon.com,200,OK,Thread Group 1-1,text,true,,94912,119,1,1,https://www.amazon.com/,306,0,215
+1574959759443,613,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396140,118,1,1,https://www.kohls.com/,288,0,149
+1574959760060,533,www.walmart.com,200,OK,Thread Group 1-1,text,true,,195235,120,1,1,https://www.walmart.com/,420,0,135
+1574959760595,1477,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439862,122,1,1,https://www.walgreens.com/,289,0,141
+1574959762075,346,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214456,122,1,1,https://www.homedepot.com/,245,0,138
+1574959762424,658,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128817,252,1,1,https://www.wholefoodsmarket.com/,223,0,193
+1574959762424,223,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,223,0,193
+1574959762648,434,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128510,129,1,1,https://www.wholefoodsmarket.com/,331,0,289
+1574959763083,471,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,412,0,378
+1574959763555,471,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220035,243,1,1,https://www.samsung.com/us/,175,0,136
+1574959763555,175,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,175,0,136
+1574959763730,296,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219621,123,1,1,https://www.samsung.com/us/,64,0,0
+1574959764027,778,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,296,0,149
+1574959764027,296,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,296,0,149
+1574959764324,481,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,435,0,0
+1574959764808,994,store.google.com,200,OK,Thread Group 1-1,text,true,,2028088,121,1,1,https://store.google.com/,269,0,182
+1574959765803,371,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244556,119,1,1,https://www.sprint.com/,255,0,163
+1574959766175,284,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,221,0,138
+1574959766175,221,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,221,0,138
+1574959766396,63,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,36,0,0
+1574959766460,386,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312674,121,1,1,https://www.samsclub.com/,254,0,173
+1574959766847,299,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,221,0,160
+1574959767147,1315,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,1233,0,1196
+1574959768463,736,www.staples.com,200,OK,Thread Group 1-1,text,true,,560934,120,1,1,https://www.staples.com/,504,0,215
+1574959769201,370,www.dell.com,200,OK,Thread Group 1-1,text,true,,197074,239,1,1,https://www.dell.com/en-us,205,0,162
+1574959769201,205,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,205,0,162
+1574959769406,165,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,195605,122,1,1,https://www.dell.com/en-us,45,0,0
+1574959769575,385,www.target.com,200,OK,Thread Group 1-1,text,true,,282158,119,1,1,https://www.target.com/,219,0,149
+1574959769961,1522,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6429435,116,1,1,https://www.bjs.com/,201,0,155
+1574959771487,476,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230239,244,1,1,https://www.lenovo.com/us/en/,179,0,139
+1574959771487,179,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,179,0,139
+1574959771666,297,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229135,125,1,1,https://www.lenovo.com/us/en/,75,0,0
+1574959771965,337,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495216,126,1,1,https://www.harborfreight.com/,174,0,137
+1574959772303,313,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175291,131,1,1,https://www.dickssportinggoods.com/,194,0,126
+1574960193667,355,www.amazon.com,200,OK,Thread Group 1-1,text,true,,95175,119,1,1,https://www.amazon.com/,208,0,127
+1574960194024,701,www.kohls.com,200,OK,Thread Group 1-1,text,true,,395130,118,1,1,https://www.kohls.com/,558,0,127
+1574960194726,492,www.walmart.com,200,OK,Thread Group 1-1,text,true,,196226,120,1,1,https://www.walmart.com/,386,0,133
+1574960195219,1243,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439826,122,1,1,https://www.walgreens.com/,893,0,138
+1574960196463,492,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214452,122,1,1,https://www.homedepot.com/,358,0,149
+1574960196957,605,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128817,252,1,1,https://www.wholefoodsmarket.com/,229,0,202
+1574960196957,229,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,229,0,202
+1574960197186,376,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128510,129,1,1,https://www.wholefoodsmarket.com/,275,0,219
+1574960197563,234,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,176,0,139
+1574960197798,421,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220047,243,1,1,https://www.samsung.com/us/,169,0,133
+1574960197798,169,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,169,0,133
+1574960197967,252,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219633,123,1,1,https://www.samsung.com/us/,55,0,0
+1574960198220,640,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,206,0,145
+1574960198220,206,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,206,0,145
+1574960198426,434,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,396,0,0
+1574960198862,824,store.google.com,200,OK,Thread Group 1-1,text,true,,2028062,121,1,1,https://store.google.com/,277,0,180
+1574960199687,345,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244579,119,1,1,https://www.sprint.com/,202,0,125
+1574960200033,277,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,212,0,128
+1574960200033,212,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,212,0,128
+1574960200245,65,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,34,0,0
+1574960200311,289,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312686,121,1,1,https://www.samsclub.com/,167,0,129
+1574960200601,250,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,186,0,150
+1574960200853,297,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,232,0,194
+1574960201151,512,www.staples.com,200,OK,Thread Group 1-1,text,true,,560898,120,1,1,https://www.staples.com/,335,0,122
+1574960201664,344,www.dell.com,200,OK,Thread Group 1-1,text,true,,181232,239,1,1,https://www.dell.com/en-us,166,0,123
+1574960201664,166,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,166,0,123
+1574960201830,178,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179763,122,1,1,https://www.dell.com/en-us,70,0,0
+1574960202010,384,www.target.com,200,OK,Thread Group 1-1,text,true,,281437,119,1,1,https://www.target.com/,205,0,158
+1574960202394,1778,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6429446,116,1,1,https://www.bjs.com/,164,0,124
+1574960204174,4797,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230239,244,1,1,https://www.lenovo.com/us/en/,2402,0,356
+1574960204174,2402,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,2402,0,356
+1574960206576,2395,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229135,125,1,1,https://www.lenovo.com/us/en/,2214,0,144
+1574960208971,377,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495204,126,1,1,https://www.harborfreight.com/,173,0,131
+1574960209350,292,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175303,131,1,1,https://www.dickssportinggoods.com/,192,0,129
+1574964856032,1400,www.amazon.com,200,OK,Thread Group 1-1,text,true,,96865,119,1,1,https://www.amazon.com/,1280,0,1163
+1574964857433,701,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396243,118,1,1,https://www.kohls.com/,289,0,138
+1574964858135,467,www.walmart.com,200,OK,Thread Group 1-1,text,true,,196080,120,1,1,https://www.walmart.com/,373,0,124
+1574964858603,936,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439881,122,1,1,https://www.walgreens.com/,285,0,139
+1574964859540,391,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214457,122,1,1,https://www.homedepot.com/,273,0,130
+1574964859932,487,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128817,252,1,1,https://www.wholefoodsmarket.com/,225,0,199
+1574964859932,225,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,225,0,199
+1574964860157,262,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128510,129,1,1,https://www.wholefoodsmarket.com/,152,0,123
+1574964860421,222,www.apple.com,200,OK,Thread Group 1-1,text,true,,85403,118,1,1,https://www.apple.com/,158,0,124
+1574964860644,482,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220034,243,1,1,https://www.samsung.com/us/,162,0,123
+1574964860644,162,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,162,0,123
+1574964860806,320,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219620,123,1,1,https://www.samsung.com/us/,48,0,0
+1574964861128,507,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,202,0,141
+1574964861128,202,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,202,0,141
+1574964861330,305,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,262,0,0
+1574964861636,870,store.google.com,200,OK,Thread Group 1-1,text,true,,2028077,121,1,1,https://store.google.com/,334,0,225
+1574964862507,354,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244602,119,1,1,https://www.sprint.com/,232,0,134
+1574964862863,277,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,216,0,132
+1574964862863,216,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,216,0,132
+1574964863080,60,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,31,0,0
+1574964863142,333,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312615,121,1,1,https://www.samsclub.com/,188,0,128
+1574964863476,282,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,217,0,170
+1574964863759,258,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,192,0,152
+1574964864028,620,www.staples.com,200,OK,Thread Group 1-1,text,true,,560872,120,1,1,https://www.staples.com/,421,0,163
+1574964864649,381,www.dell.com,200,OK,Thread Group 1-1,text,true,,181228,239,1,1,https://www.dell.com/en-us,194,0,159
+1574964864649,194,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1465,117,1,1,https://www.dell.com/,194,0,159
+1574964864843,187,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179763,122,1,1,https://www.dell.com/en-us,57,0,0
+1574964865039,336,www.target.com,200,OK,Thread Group 1-1,text,true,,282436,119,1,1,https://www.target.com/,184,0,137
+1574964865376,1883,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6429431,116,1,1,https://www.bjs.com/,213,0,172
+1574964867260,402,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230239,244,1,1,https://www.lenovo.com/us/en/,170,0,130
+1574964867260,170,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,170,0,130
+1574964867430,232,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229135,125,1,1,https://www.lenovo.com/us/en/,115,0,0
+1574964867666,425,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495388,126,1,1,https://www.harborfreight.com/,167,0,133
+1574964868092,308,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175291,131,1,1,https://www.dickssportinggoods.com/,204,0,139
+1574967273678,412,www.amazon.com,200,OK,Thread Group 1-1,text,true,,97754,119,1,1,https://www.amazon.com/,253,0,178
+1574967274091,804,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396326,118,1,1,https://www.kohls.com/,266,0,128
+1574967274896,497,www.walmart.com,200,OK,Thread Group 1-1,text,true,,196004,120,1,1,https://www.walmart.com/,393,0,129
+1574967275394,645,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439881,122,1,1,https://www.walgreens.com/,296,0,155
+1574967276040,360,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214456,122,1,1,https://www.homedepot.com/,238,0,136
+1574967276402,475,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128817,252,1,1,https://www.wholefoodsmarket.com/,208,0,181
+1574967276402,208,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,208,0,181
+1574967276610,267,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128510,129,1,1,https://www.wholefoodsmarket.com/,162,0,133
+1574967276878,249,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,171,0,136
+1574967277129,531,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220034,243,1,1,https://www.samsung.com/us/,209,0,165
+1574967277129,209,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,209,0,165
+1574967277338,322,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219620,123,1,1,https://www.samsung.com/us/,67,0,0
+1574967277661,632,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,190,0,135
+1574967277661,190,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,190,0,135
+1574967277851,442,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,386,0,0
+1574967278294,684,store.google.com,200,OK,Thread Group 1-1,text,true,,2028054,121,1,1,https://store.google.com/,251,0,159
+1574967278980,390,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244580,119,1,1,https://www.sprint.com/,253,0,134
+1574967279372,287,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,223,0,136
+1574967279372,223,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,223,0,136
+1574967279595,64,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,39,0,0
+1574967279661,1347,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312687,121,1,1,https://www.samsclub.com/,1228,0,1190
+1574967281010,271,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,198,0,156
+1574967281283,326,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,264,0,157
+1574967281610,647,www.staples.com,200,OK,Thread Group 1-1,text,true,,560891,120,1,1,https://www.staples.com/,362,0,149
+1574967282258,298,www.dell.com,200,OK,Thread Group 1-1,text,true,,181298,239,1,1,https://www.dell.com/en-us,163,0,130
+1574967282258,163,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,163,0,130
+1574967282421,135,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179829,122,1,1,https://www.dell.com/en-us,49,0,0
+1574967282557,764,www.target.com,200,OK,Thread Group 1-1,text,true,,293493,119,1,1,https://www.target.com/,231,0,183
+1574967283323,1314,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6431103,116,1,1,https://www.bjs.com/,176,0,132
+1574967284639,367,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230331,244,1,1,https://www.lenovo.com/us/en/,171,0,131
+1574967284639,171,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,171,0,131
+1574967284810,196,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229227,125,1,1,https://www.lenovo.com/us/en/,74,0,0
+1574967285007,398,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495388,126,1,1,https://www.harborfreight.com/,173,0,133
+1574967285407,296,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175291,131,1,1,https://www.dickssportinggoods.com/,196,0,125
+1574967833601,460,www.amazon.com,200,OK,Thread Group 1-1,text,true,,97264,119,1,1,https://www.amazon.com/,294,0,210
+1574967834065,668,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396302,118,1,1,https://www.kohls.com/,255,0,131
+1574967834734,515,www.walmart.com,200,OK,Thread Group 1-1,text,true,,196148,120,1,1,https://www.walmart.com/,423,0,130
+1574967835250,618,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439869,122,1,1,https://www.walgreens.com/,320,0,130
+1574967835875,462,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214450,122,1,1,https://www.homedepot.com/,323,0,123
+1574967836338,434,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128818,252,1,1,https://www.wholefoodsmarket.com/,185,0,159
+1574967836338,185,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,185,0,159
+1574967836524,248,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128511,129,1,1,https://www.wholefoodsmarket.com/,159,0,131
+1574967836773,234,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,177,0,131
+1574967837008,472,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220034,243,1,1,https://www.samsung.com/us/,163,0,127
+1574967837008,163,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,163,0,127
+1574967837171,309,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219620,123,1,1,https://www.samsung.com/us/,54,0,0
+1574967837481,640,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,193,0,132
+1574967837481,193,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,193,0,132
+1574967837674,447,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,394,0,0
+1574967838122,625,store.google.com,200,OK,Thread Group 1-1,text,true,,2028088,121,1,1,https://store.google.com/,219,0,140
+1574967838748,321,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244572,119,1,1,https://www.sprint.com/,207,0,122
+1574967839070,267,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,210,0,126
+1574967839070,210,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,210,0,126
+1574967839280,57,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,36,0,0
+1574967839338,301,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312687,121,1,1,https://www.samsclub.com/,176,0,129
+1574967839640,282,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,216,0,179
+1574967839923,263,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,205,0,155
+1574967840188,584,www.staples.com,200,OK,Thread Group 1-1,text,true,,560956,120,1,1,https://www.staples.com/,356,0,145
+1574967840778,298,www.dell.com,200,OK,Thread Group 1-1,text,true,,181303,239,1,1,https://www.dell.com/en-us,158,0,124
+1574967840778,158,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,158,0,124
+1574967840937,139,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179772,122,1,1,https://www.dell.com/en-us,42,0,0
+1574967841078,341,www.target.com,200,OK,Thread Group 1-1,text,true,,293494,119,1,1,https://www.target.com/,193,0,128
+1574967841423,1505,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6431236,116,1,1,https://www.bjs.com/,202,0,160
+1574967842929,344,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230331,244,1,1,https://www.lenovo.com/us/en/,165,0,132
+1574967842929,165,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,165,0,132
+1574967843094,179,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229227,125,1,1,https://www.lenovo.com/us/en/,64,0,0
+1574967843274,367,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495412,126,1,1,https://www.harborfreight.com/,199,0,158
+1574967843642,319,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175291,131,1,1,https://www.dickssportinggoods.com/,206,0,144
+1574974533622,514,www.amazon.com,200,OK,Thread Group 1-1,text,true,,97295,119,1,1,https://www.amazon.com/,356,0,275
+1574974534137,871,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396326,118,1,1,https://www.kohls.com/,396,0,126
+1574974535009,579,www.walmart.com,200,OK,Thread Group 1-1,text,true,,196440,120,1,1,https://www.walmart.com/,470,0,183
+1574974535589,618,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439867,122,1,1,https://www.walgreens.com/,265,0,139
+1574974536208,503,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214456,122,1,1,https://www.homedepot.com/,362,0,166
+1574974536712,701,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128818,252,1,1,https://www.wholefoodsmarket.com/,450,0,187
+1574974536712,450,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,450,0,187
+1574974537163,250,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128511,129,1,1,https://www.wholefoodsmarket.com/,147,0,119
+1574974537414,266,www.apple.com,200,OK,Thread Group 1-1,text,true,,85430,118,1,1,https://www.apple.com/,205,0,175
+1574974537682,477,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220021,243,1,1,https://www.samsung.com/us/,248,0,187
+1574974537682,248,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,248,0,187
+1574974537930,229,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219607,123,1,1,https://www.samsung.com/us/,53,0,0
+1574974538160,807,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,278,0,155
+1574974538160,278,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,278,0,155
+1574974538438,529,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,482,0,0
+1574974538968,1312,store.google.com,200,OK,Thread Group 1-1,text,true,,2028080,121,1,1,https://store.google.com/,330,0,222
+1574974540281,504,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244580,119,1,1,https://www.sprint.com/,336,0,163
+1574974540786,266,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,209,0,127
+1574974540786,209,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,209,0,127
+1574974540995,57,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,34,0,0
+1574974541053,334,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312675,121,1,1,https://www.samsclub.com/,172,0,132
+1574974541388,318,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,244,0,189
+1574974541707,335,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,276,0,231
+1574974542044,927,www.staples.com,200,OK,Thread Group 1-1,text,true,,560896,120,1,1,https://www.staples.com/,691,0,175
+1574974542971,374,www.dell.com,200,OK,Thread Group 1-1,text,true,,181227,239,1,1,https://www.dell.com/en-us,229,0,188
+1574974542971,229,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,229,0,188
+1574974543200,145,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179758,122,1,1,https://www.dell.com/en-us,51,0,0
+1574974543346,326,www.target.com,200,OK,Thread Group 1-1,text,true,,300118,119,1,1,https://www.target.com/,170,0,124
+1574974543673,1496,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6429433,116,1,1,https://www.bjs.com/,164,0,122
+1574974545171,495,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230380,244,1,1,https://www.lenovo.com/us/en/,341,0,170
+1574974545171,341,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,341,0,170
+1574974545512,154,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229276,125,1,1,https://www.lenovo.com/us/en/,60,0,0
+1574974545667,346,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495454,126,1,1,https://www.harborfreight.com/,194,0,156
+1574974546015,344,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175303,131,1,1,https://www.dickssportinggoods.com/,235,0,189
+1574981909554,396,www.amazon.com,200,OK,Thread Group 1-1,text,true,,96853,119,1,1,https://www.amazon.com/,262,0,168
+1574981909951,727,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396219,118,1,1,https://www.kohls.com/,257,0,127
+1574981910680,496,www.walmart.com,200,OK,Thread Group 1-1,text,true,,195443,120,1,1,https://www.walmart.com/,386,0,124
+1574981911177,650,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439804,122,1,1,https://www.walgreens.com/,304,0,141
+1574981911827,317,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214456,122,1,1,https://www.homedepot.com/,223,0,125
+1574981912146,478,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128771,252,1,1,https://www.wholefoodsmarket.com/,190,0,161
+1574981912146,190,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,190,0,161
+1574981912336,288,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128464,129,1,1,https://www.wholefoodsmarket.com/,194,0,166
+1574981912625,219,www.apple.com,200,OK,Thread Group 1-1,text,true,,85403,118,1,1,https://www.apple.com/,159,0,125
+1574981912845,447,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220045,243,1,1,https://www.samsung.com/us/,175,0,140
+1574981912845,175,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,175,0,140
+1574981913020,272,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219631,123,1,1,https://www.samsung.com/us/,60,0,0
+1574981913293,600,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,191,0,135
+1574981913293,191,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,191,0,135
+1574981913484,409,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,365,0,0
+1574981913894,885,store.google.com,200,OK,Thread Group 1-1,text,true,,2028072,121,1,1,https://store.google.com/,329,0,213
+1574981914780,347,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244596,119,1,1,https://www.sprint.com/,226,0,150
+1574981915128,282,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,217,0,135
+1574981915128,217,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,217,0,135
+1574981915345,65,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,38,0,0
+1574981915412,307,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312687,121,1,1,https://www.samsclub.com/,190,0,149
+1574981915721,311,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,237,0,201
+1574981916033,274,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83452,118,1,1,https://www.kmart.com/,213,0,178
+1574981916308,720,www.staples.com,200,OK,Thread Group 1-1,text,true,,560896,120,1,1,https://www.staples.com/,531,0,124
+1574981917029,322,www.dell.com,200,OK,Thread Group 1-1,text,true,,181469,239,1,1,https://www.dell.com/en-us,186,0,152
+1574981917029,186,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1527,117,1,1,https://www.dell.com/,186,0,152
+1574981917215,136,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179942,122,1,1,https://www.dell.com/en-us,40,0,0
+1574981917352,478,www.target.com,200,OK,Thread Group 1-1,text,true,,300162,119,1,1,https://www.target.com/,301,0,239
+1574981917832,1505,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6431106,116,1,1,https://www.bjs.com/,191,0,131
+1574981919340,431,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230384,244,1,1,https://www.lenovo.com/us/en/,239,0,202
+1574981919340,239,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,239,0,202
+1574981919579,192,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229280,125,1,1,https://www.lenovo.com/us/en/,90,0,0
+1574981919772,379,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495455,126,1,1,https://www.harborfreight.com/,168,0,136
+1574981920152,281,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175290,131,1,1,https://www.dickssportinggoods.com/,177,0,133
+1574982498549,406,www.amazon.com,200,OK,Thread Group 1-1,text,true,,97076,119,1,1,https://www.amazon.com/,263,0,173
+1574982498956,874,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396285,118,1,1,https://www.kohls.com/,299,0,162
+1574982499833,557,www.walmart.com,200,OK,Thread Group 1-1,text,true,,185605,120,1,1,https://www.walmart.com/,426,0,135
+1574982500391,693,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439810,122,1,1,https://www.walgreens.com/,344,0,175
+1574982501085,567,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,214457,122,1,1,https://www.homedepot.com/,458,0,139
+1574982501653,539,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128771,252,1,1,https://www.wholefoodsmarket.com/,234,0,202
+1574982501653,234,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,234,0,202
+1574982501889,303,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128464,129,1,1,https://www.wholefoodsmarket.com/,197,0,167
+1574982502194,267,www.apple.com,200,OK,Thread Group 1-1,text,true,,85429,118,1,1,https://www.apple.com/,189,0,156
+1574982502463,487,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220033,243,1,1,https://www.samsung.com/us/,202,0,160
+1574982502463,202,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,202,0,160
+1574982502665,285,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219619,123,1,1,https://www.samsung.com/us/,41,0,0
+1574982502952,974,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,349,0,232
+1574982502952,349,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,349,0,232
+1574982503302,624,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,572,0,0
+1574982503927,875,store.google.com,200,OK,Thread Group 1-1,text,true,,2028082,121,1,1,https://store.google.com/,305,0,200
+1574982504803,378,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244572,119,1,1,https://www.sprint.com/,270,0,163
+1574982505184,354,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,255,0,170
+1574982505184,255,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,255,0,170
+1574982505439,99,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,59,0,0
+1574982505540,437,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312639,121,1,1,https://www.samsclub.com/,277,0,235
+1574982505980,305,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,226,0,166
+1574982506286,254,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83452,118,1,1,https://www.kmart.com/,199,0,152
+1574982506541,693,www.staples.com,200,OK,Thread Group 1-1,text,true,,560896,120,1,1,https://www.staples.com/,400,0,155
+1574982507234,369,www.dell.com,200,OK,Thread Group 1-1,text,true,,181469,239,1,1,https://www.dell.com/en-us,175,0,141
+1574982507234,175,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,175,0,141
+1574982507409,194,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179938,122,1,1,https://www.dell.com/en-us,64,0,0
+1574982507604,353,www.target.com,200,OK,Thread Group 1-1,text,true,,300926,119,1,1,https://www.target.com/,188,0,144
+1574982507959,1414,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6429546,116,1,1,https://www.bjs.com/,193,0,148
+1574982509374,548,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230385,244,1,1,https://www.lenovo.com/us/en/,259,0,211
+1574982509374,259,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,259,0,211
+1574982509633,289,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229281,125,1,1,https://www.lenovo.com/us/en/,171,0,0
+1574982509925,1930,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495431,126,1,1,https://www.harborfreight.com/,1245,0,1210
+1574982511856,367,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175291,131,1,1,https://www.dickssportinggoods.com/,234,0,162
+1574997233886,491,www.amazon.com,200,OK,Thread Group 1-1,text,true,,96914,119,1,1,https://www.amazon.com/,351,0,265
+1574997234381,755,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396336,118,1,1,https://www.kohls.com/,349,0,233
+1574997235139,569,www.walmart.com,200,OK,Thread Group 1-1,text,true,,186346,120,1,1,https://www.walmart.com/,482,0,190
+1574997235710,1291,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439804,122,1,1,https://www.walgreens.com/,966,0,194
+1574997237003,483,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222789,122,1,1,https://www.homedepot.com/,368,0,235
+1574997237488,541,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128772,252,1,1,https://www.wholefoodsmarket.com/,270,0,244
+1574997237488,270,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,270,0,244
+1574997237759,270,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128465,129,1,1,https://www.wholefoodsmarket.com/,169,0,140
+1574997238030,464,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,345,0,286
+1574997238495,606,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220046,243,1,1,https://www.samsung.com/us/,217,0,177
+1574997238495,217,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,217,0,177
+1574997238712,389,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219632,123,1,1,https://www.samsung.com/us/,51,0,0
+1574997239103,628,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,227,0,144
+1574997239103,227,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,227,0,144
+1574997239330,401,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,359,0,0
+1574997239731,834,store.google.com,200,OK,Thread Group 1-1,text,true,,2028069,121,1,1,https://store.google.com/,286,0,184
+1574997240566,819,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244583,119,1,1,https://www.sprint.com/,718,0,637
+1574997241388,359,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,282,0,196
+1574997241388,282,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,282,0,196
+1574997241670,77,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,35,0,0
+1574997241752,421,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312651,121,1,1,https://www.samsclub.com/,298,0,234
+1574997242174,377,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,302,0,184
+1574997242552,257,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,199,0,161
+1574997242810,1028,www.staples.com,200,OK,Thread Group 1-1,text,true,,560904,120,1,1,https://www.staples.com/,806,0,186
+1574997243839,389,www.dell.com,200,OK,Thread Group 1-1,text,true,,181473,239,1,1,https://www.dell.com/en-us,214,0,178
+1574997243839,214,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,214,0,178
+1574997244060,168,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179942,122,1,1,https://www.dell.com/en-us,70,0,0
+1574997244229,414,www.target.com,200,OK,Thread Group 1-1,text,true,,300162,119,1,1,https://www.target.com/,207,0,158
+1574997244644,1303,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6426824,116,1,1,https://www.bjs.com/,226,0,177
+1574997245948,612,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230294,244,1,1,https://www.lenovo.com/us/en/,411,0,212
+1574997245948,411,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,411,0,212
+1574997246359,201,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229190,125,1,1,https://www.lenovo.com/us/en/,92,0,0
+1574997246562,383,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495455,126,1,1,https://www.harborfreight.com/,196,0,158
+1574997246946,713,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175291,131,1,1,https://www.dickssportinggoods.com/,611,0,493
+1574998322380,444,www.amazon.com,200,OK,Thread Group 1-1,text,true,,96422,119,1,1,https://www.amazon.com/,368,0,208
+1574998322826,604,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396274,118,1,1,https://www.kohls.com/,231,0,132
+1574998323431,521,www.walmart.com,200,OK,Thread Group 1-1,text,true,,186816,120,1,1,https://www.walmart.com/,402,0,144
+1574998323953,1018,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439875,122,1,1,https://www.walgreens.com/,359,0,138
+1574998324972,395,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222786,122,1,1,https://www.homedepot.com/,280,0,122
+1574998325369,526,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128772,252,1,1,https://www.wholefoodsmarket.com/,216,0,190
+1574998325369,216,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,216,0,190
+1574998325586,309,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128465,129,1,1,https://www.wholefoodsmarket.com/,199,0,168
+1574998325896,504,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,360,0,282
+1574998326400,391,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220022,243,1,1,https://www.samsung.com/us/,220,0,141
+1574998326400,220,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,220,0,141
+1574998326620,171,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219608,123,1,1,https://www.samsung.com/us/,57,0,0
+1574998326792,696,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,274,0,215
+1574998326792,274,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,274,0,215
+1574998327066,422,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,376,0,0
+1574998327489,835,store.google.com,200,OK,Thread Group 1-1,text,true,,2028069,121,1,1,https://store.google.com/,311,0,188
+1574998328325,391,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244561,119,1,1,https://www.sprint.com/,236,0,155
+1574998328717,288,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,228,0,145
+1574998328717,228,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,228,0,145
+1574998328945,60,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,30,0,0
+1574998329006,316,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312639,121,1,1,https://www.samsclub.com/,179,0,140
+1574998329323,304,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,238,0,197
+1574998329628,258,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83452,118,1,1,https://www.kmart.com/,195,0,153
+1574998329887,687,www.staples.com,200,OK,Thread Group 1-1,text,true,,560872,120,1,1,https://www.staples.com/,494,0,152
+1574998330575,323,www.dell.com,200,OK,Thread Group 1-1,text,true,,181277,239,1,1,https://www.dell.com/en-us,166,0,124
+1574998330575,166,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,166,0,124
+1574998330741,157,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179746,122,1,1,https://www.dell.com/en-us,52,0,0
+1574998330899,418,www.target.com,200,OK,Thread Group 1-1,text,true,,300927,119,1,1,https://www.target.com/,258,0,212
+1574998331319,1283,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6432938,116,1,1,https://www.bjs.com/,176,0,137
+1574998332602,431,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230293,244,1,1,https://www.lenovo.com/us/en/,223,0,183
+1574998332602,223,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,223,0,183
+1574998332825,208,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229189,125,1,1,https://www.lenovo.com/us/en/,101,0,0
+1574998333034,405,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495443,126,1,1,https://www.harborfreight.com/,208,0,176
+1574998333440,328,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175279,131,1,1,https://www.dickssportinggoods.com/,216,0,135
+1574998864220,405,www.amazon.com,200,OK,Thread Group 1-1,text,true,,97958,119,1,1,https://www.amazon.com/,250,0,145
+1574998864627,590,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396191,118,1,1,https://www.kohls.com/,252,0,133
+1574998865218,466,www.walmart.com,200,OK,Thread Group 1-1,text,true,,186026,120,1,1,https://www.walmart.com/,356,0,122
+1574998865685,684,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1431699,122,1,1,https://www.walgreens.com/,325,0,167
+1574998866370,374,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222795,122,1,1,https://www.homedepot.com/,237,0,134
+1574998866752,486,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128772,252,1,1,https://www.wholefoodsmarket.com/,240,0,215
+1574998866752,240,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,240,0,215
+1574998866999,239,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128465,129,1,1,https://www.wholefoodsmarket.com/,152,0,123
+1574998867240,407,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,282,0,221
+1574998867648,358,www.samsung.com,200,OK,Thread Group 1-1,text,true,,221089,243,1,1,https://www.samsung.com/us/,167,0,125
+1574998867648,167,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,167,0,125
+1574998867815,191,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,220675,123,1,1,https://www.samsung.com/us/,86,0,0
+1574998868007,674,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,198,0,130
+1574998868007,198,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,198,0,130
+1574998868205,476,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,432,0,0
+1574998868682,721,store.google.com,200,OK,Thread Group 1-1,text,true,,2028074,121,1,1,https://store.google.com/,270,0,174
+1574998869405,311,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244541,119,1,1,https://www.sprint.com/,198,0,122
+1574998869717,255,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,199,0,116
+1574998869717,199,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,199,0,116
+1574998869916,56,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,30,0,0
+1574998869974,349,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312675,121,1,1,https://www.samsclub.com/,169,0,132
+1574998870324,269,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,193,0,157
+1574998870594,314,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83452,118,1,1,https://www.kmart.com/,228,0,189
+1574998870909,751,www.staples.com,200,OK,Thread Group 1-1,text,true,,560908,120,1,1,https://www.staples.com/,544,0,134
+1574998871661,369,www.dell.com,200,OK,Thread Group 1-1,text,true,,181277,239,1,1,https://www.dell.com/en-us,184,0,143
+1574998871661,184,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,184,0,143
+1574998871845,185,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179746,122,1,1,https://www.dell.com/en-us,94,0,0
+1574998872030,359,www.target.com,200,OK,Thread Group 1-1,text,true,,300213,119,1,1,https://www.target.com/,186,0,141
+1574998872390,2112,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6426828,116,1,1,https://www.bjs.com/,181,0,142
+1574998874503,414,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230293,244,1,1,https://www.lenovo.com/us/en/,165,0,129
+1574998874503,165,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,165,0,129
+1574998874668,249,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229189,125,1,1,https://www.lenovo.com/us/en/,106,0,0
+1574998874918,441,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495431,126,1,1,https://www.harborfreight.com/,200,0,165
+1574998875360,1296,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175290,131,1,1,https://www.dickssportinggoods.com/,1186,0,1130
+1575000113644,496,www.amazon.com,200,OK,Thread Group 1-1,text,true,,97227,119,1,1,https://www.amazon.com/,310,0,221
+1575000113644,496,www.amazon.com,200,OK,Thread Group 1-1,text,true,,97227,119,1,1,https://www.amazon.com/,310,0,221
+1575000114141,455,www.kohls.com,200,OK,Thread Group 1-1,text,true,,395999,118,1,1,https://www.kohls.com/,308,0,140
+1575000114141,455,www.kohls.com,200,OK,Thread Group 1-1,text,true,,395999,118,1,1,https://www.kohls.com/,308,0,140
+1575000114597,459,www.walmart.com,200,OK,Thread Group 1-1,text,true,,186481,120,1,1,https://www.walmart.com/,365,0,136
+1575000114597,459,www.walmart.com,200,OK,Thread Group 1-1,text,true,,186481,120,1,1,https://www.walmart.com/,365,0,136
+1575000115057,1136,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1176891,122,1,1,https://www.walgreens.com/,394,0,160
+1575000115057,1136,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1176891,122,1,1,https://www.walgreens.com/,394,0,160
+1575000116194,447,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222792,122,1,1,https://www.homedepot.com/,340,0,137
+1575000116194,447,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222792,122,1,1,https://www.homedepot.com/,340,0,137
+1575000116642,515,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128772,252,1,1,https://www.wholefoodsmarket.com/,240,0,214
+1575000116642,240,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,240,0,214
+1575000116883,274,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128465,129,1,1,https://www.wholefoodsmarket.com/,154,0,125
+1575000116642,515,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128772,252,1,1,https://www.wholefoodsmarket.com/,240,0,214
+1575000116642,240,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,240,0,214
+1575000116883,274,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128465,129,1,1,https://www.wholefoodsmarket.com/,154,0,125
+1575000117159,419,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,295,0,233
+1575000117159,419,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,295,0,233
+1575000117579,558,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220021,243,1,1,https://www.samsung.com/us/,171,0,135
+1575000117579,171,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,171,0,135
+1575000117750,387,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219607,123,1,1,https://www.samsung.com/us/,81,0,0
+1575000117579,558,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220021,243,1,1,https://www.samsung.com/us/,171,0,135
+1575000117579,171,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,171,0,135
+1575000117750,387,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219607,123,1,1,https://www.samsung.com/us/,81,0,0
+1575000118138,846,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,380,0,153
+1575000118138,380,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,380,0,153
+1575000118518,466,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,424,0,0
+1575000118138,846,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,380,0,153
+1575000118138,380,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,380,0,153
+1575000118518,466,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,424,0,0
+1575000118984,818,store.google.com,200,OK,Thread Group 1-1,text,true,,2028054,121,1,1,https://store.google.com/,299,0,194
+1575000118984,818,store.google.com,200,OK,Thread Group 1-1,text,true,,2028054,121,1,1,https://store.google.com/,299,0,194
+1575000119803,346,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244570,119,1,1,https://www.sprint.com/,246,0,149
+1575000119803,346,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244570,119,1,1,https://www.sprint.com/,246,0,149
+1575000120149,262,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,207,0,125
+1575000120149,207,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,207,0,125
+1575000120356,55,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,35,0,0
+1575000120149,262,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52785,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,207,0,125
+1575000120149,207,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,207,0,125
+1575000120356,55,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52608,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,35,0,0
+1575000120412,366,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312675,121,1,1,https://www.samsclub.com/,199,0,148
+1575000120412,366,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312675,121,1,1,https://www.samsclub.com/,199,0,148
+1575000120784,349,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,262,0,210
+1575000120784,349,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,262,0,210
+1575000121136,292,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83452,118,1,1,https://www.kmart.com/,230,0,193
+1575000121136,292,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83452,118,1,1,https://www.kmart.com/,230,0,193
+1575000121432,521,www.staples.com,200,OK,Thread Group 1-1,text,true,,560908,120,1,1,https://www.staples.com/,350,0,145
+1575000121432,521,www.staples.com,200,OK,Thread Group 1-1,text,true,,560908,120,1,1,https://www.staples.com/,350,0,145
+1575000121954,322,www.dell.com,200,OK,Thread Group 1-1,text,true,,181215,239,1,1,https://www.dell.com/en-us,170,0,125
+1575000121954,170,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,170,0,125
+1575000122124,152,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179746,122,1,1,https://www.dell.com/en-us,69,0,0
+1575000121954,322,www.dell.com,200,OK,Thread Group 1-1,text,true,,181215,239,1,1,https://www.dell.com/en-us,170,0,125
+1575000121954,170,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,170,0,125
+1575000122124,152,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179746,122,1,1,https://www.dell.com/en-us,69,0,0
+1575000122278,393,www.target.com,200,OK,Thread Group 1-1,text,true,,300118,119,1,1,https://www.target.com/,224,0,178
+1575000122278,393,www.target.com,200,OK,Thread Group 1-1,text,true,,300118,119,1,1,https://www.target.com/,224,0,178
+1575000122672,1306,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6428544,116,1,1,https://www.bjs.com/,173,0,131
+1575000122672,1306,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6428544,116,1,1,https://www.bjs.com/,173,0,131
+1575000123979,320,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230289,244,1,1,https://www.lenovo.com/us/en/,164,0,129
+1575000123979,164,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,164,0,129
+1575000124143,156,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229185,125,1,1,https://www.lenovo.com/us/en/,47,0,0
+1575000123979,320,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230289,244,1,1,https://www.lenovo.com/us/en/,164,0,129
+1575000123979,164,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,164,0,129
+1575000124143,156,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229185,125,1,1,https://www.lenovo.com/us/en/,47,0,0
+1575000124303,394,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495455,126,1,1,https://www.harborfreight.com/,192,0,154
+1575000124303,394,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495455,126,1,1,https://www.harborfreight.com/,192,0,154
+1575000124706,291,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175279,131,1,1,https://www.dickssportinggoods.com/,201,0,127
+1575000124706,291,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175279,131,1,1,https://www.dickssportinggoods.com/,201,0,127
+1575005993830,369,www.amazon.com,200,OK,Thread Group 1-1,text,true,,96977,119,1,1,https://www.amazon.com/,224,0,150
+1575005994207,572,www.kohls.com,200,OK,Thread Group 1-1,text,true,,396201,118,1,1,https://www.kohls.com/,251,0,125
+1575005994780,455,www.walmart.com,200,OK,Thread Group 1-1,text,true,,186331,120,1,1,https://www.walmart.com/,353,0,122
+1575005995236,804,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1431634,122,1,1,https://www.walgreens.com/,492,0,129
+1575005996041,470,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222798,122,1,1,https://www.homedepot.com/,339,0,131
+1575005996512,504,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128818,252,1,1,https://www.wholefoodsmarket.com/,187,0,162
+1575005996512,187,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,187,0,162
+1575005996699,317,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128511,129,1,1,https://www.wholefoodsmarket.com/,217,0,167
+1575005997017,254,www.apple.com,200,OK,Thread Group 1-1,text,true,,85404,118,1,1,https://www.apple.com/,192,0,163
+1575005997272,396,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220281,243,1,1,https://www.samsung.com/us/,158,0,120
+1575005997272,158,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,158,0,120
+1575005997430,238,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219867,123,1,1,https://www.samsung.com/us/,46,0,0
+1575005997669,712,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,263,0,217
+1575005997669,263,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,263,0,217
+1575005997932,449,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,400,0,0
+1575005998382,743,store.google.com,200,OK,Thread Group 1-1,text,true,,2028169,121,1,1,https://store.google.com/,314,0,223
+1575005999126,313,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244583,119,1,1,https://www.sprint.com/,202,0,125
+1575005999440,263,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,206,0,123
+1575005999440,206,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,206,0,123
+1575005999646,57,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,32,0,0
+1575005999704,302,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312675,121,1,1,https://www.samsclub.com/,174,0,125
+1575006000007,279,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,207,0,168
+1575006000288,267,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,209,0,143
+1575006000557,583,www.staples.com,200,OK,Thread Group 1-1,text,true,,560884,120,1,1,https://www.staples.com/,397,0,147
+1575006001143,368,www.dell.com,200,OK,Thread Group 1-1,text,true,,181277,239,1,1,https://www.dell.com/en-us,196,0,133
+1575006001143,196,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,196,0,133
+1575006001339,172,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179746,122,1,1,https://www.dell.com/en-us,67,0,0
+1575006001514,324,www.target.com,200,OK,Thread Group 1-1,text,true,,300882,119,1,1,https://www.target.com/,178,0,124
+1575006001839,1291,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6425909,116,1,1,https://www.bjs.com/,200,0,155
+1575006003131,377,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230299,244,1,1,https://www.lenovo.com/us/en/,201,0,167
+1575006003131,201,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,201,0,167
+1575006003332,176,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229195,125,1,1,https://www.lenovo.com/us/en/,67,0,0
+1575006003509,314,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495348,126,1,1,https://www.harborfreight.com/,164,0,131
+1575006003824,264,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,175303,131,1,1,https://www.dickssportinggoods.com/,164,0,123
+1575046929914,457,www.amazon.com,200,OK,Thread Group 1-1,text,true,,102866,119,1,1,https://www.amazon.com/,312,0,218
+1575046930372,681,www.kohls.com,200,OK,Thread Group 1-1,text,true,,398962,118,1,1,https://www.kohls.com/,342,0,189
+1575046931054,706,www.walmart.com,200,OK,Thread Group 1-1,text,true,,225664,120,1,1,https://www.walmart.com/,443,0,151
+1575046931762,1112,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439861,122,1,1,https://www.walgreens.com/,409,0,263
+1575046932875,442,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222777,122,1,1,https://www.homedepot.com/,283,0,173
+1575046933322,731,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128470,252,1,1,https://www.wholefoodsmarket.com/,236,0,202
+1575046933322,236,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,236,0,202
+1575046933558,495,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128163,129,1,1,https://www.wholefoodsmarket.com/,291,0,226
+1575046934057,430,www.apple.com,200,OK,Thread Group 1-1,text,true,,63945,118,1,1,https://www.apple.com/,333,0,266
+1575046934488,502,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220293,243,1,1,https://www.samsung.com/us/,171,0,131
+1575046934488,171,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,171,0,131
+1575046934659,331,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219879,123,1,1,https://www.samsung.com/us/,56,0,0
+1575046934993,679,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,208,0,160
+1575046934993,208,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,208,0,160
+1575046935202,470,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,419,0,0
+1575046935673,1130,store.google.com,200,OK,Thread Group 1-1,text,true,,2028062,121,1,1,https://store.google.com/,334,0,226
+1575046936804,321,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244595,119,1,1,https://www.sprint.com/,213,0,139
+1575046937126,284,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,215,0,131
+1575046937126,215,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,215,0,131
+1575046937341,69,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,40,0,0
+1575046937411,580,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312596,121,1,1,https://www.samsclub.com/,354,0,166
+1575046937992,353,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,281,0,241
+1575046938346,351,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83525,118,1,1,https://www.kmart.com/,290,0,159
+1575046938698,582,www.staples.com,200,OK,Thread Group 1-1,text,true,,560880,120,1,1,https://www.staples.com/,370,0,136
+1575046939281,658,www.dell.com,200,OK,Thread Group 1-1,text,true,,181222,239,1,1,https://www.dell.com/en-us,338,0,263
+1575046939281,338,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,338,0,263
+1575046939619,320,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179753,122,1,1,https://www.dell.com/en-us,46,0,0
+1575046939940,336,www.target.com,200,OK,Thread Group 1-1,text,true,,301307,119,1,1,https://www.target.com/,193,0,150
+1575046940276,1480,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6426011,116,1,1,https://www.bjs.com/,215,0,162
+1575046941757,390,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,18061,244,1,1,https://www.lenovo.com/us/en/,332,0,136
+1575046941757,332,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,332,0,136
+1575046942089,58,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,16957,125,1,1,https://www.lenovo.com/us/en/,55,0,0
+1575046942148,345,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495348,126,1,1,https://www.harborfreight.com/,162,0,129
+1575046942502,269,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,176734,131,1,1,https://www.dickssportinggoods.com/,174,0,130
+1575054179377,440,www.amazon.com,200,OK,Thread Group 1-1,text,true,,103371,119,1,1,https://www.amazon.com/,268,0,161
+1575054179818,729,www.kohls.com,200,OK,Thread Group 1-1,text,true,,398829,118,1,1,https://www.kohls.com/,374,0,129
+1575054180548,513,www.walmart.com,200,OK,Thread Group 1-1,text,true,,226195,120,1,1,https://www.walmart.com/,398,0,127
+1575054181066,701,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439869,122,1,1,https://www.walgreens.com/,379,0,185
+1575054181768,432,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222773,122,1,1,https://www.homedepot.com/,332,0,130
+1575054182201,441,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128469,252,1,1,https://www.wholefoodsmarket.com/,190,0,158
+1575054182201,190,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,190,0,158
+1575054182392,250,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128162,129,1,1,https://www.wholefoodsmarket.com/,153,0,124
+1575054182643,208,www.apple.com,200,OK,Thread Group 1-1,text,true,,63945,118,1,1,https://www.apple.com/,174,0,131
+1575054182852,536,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220293,243,1,1,https://www.samsung.com/us/,173,0,127
+1575054182852,173,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,173,0,127
+1575054183026,362,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219879,123,1,1,https://www.samsung.com/us/,61,0,0
+1575054183389,604,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,175,0,127
+1575054183389,175,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,175,0,127
+1575054183564,429,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,379,0,0
+1575054183994,885,store.google.com,200,OK,Thread Group 1-1,text,true,,2028087,121,1,1,https://store.google.com/,333,0,229
+1575054184880,378,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244560,119,1,1,https://www.sprint.com/,225,0,120
+1575054185265,275,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,215,0,133
+1575054185265,215,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,215,0,133
+1575054185480,60,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,31,0,0
+1575054185541,332,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312998,121,1,1,https://www.samsclub.com/,174,0,133
+1575054185874,326,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,254,0,193
+1575054186200,347,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83492,118,1,1,https://www.kmart.com/,293,0,169
+1575054186548,592,www.staples.com,200,OK,Thread Group 1-1,text,true,,560932,120,1,1,https://www.staples.com/,425,0,145
+1575054187141,312,www.dell.com,200,OK,Thread Group 1-1,text,true,,181219,239,1,1,https://www.dell.com/en-us,174,0,138
+1575054187141,174,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1465,117,1,1,https://www.dell.com/,174,0,138
+1575054187315,138,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179754,122,1,1,https://www.dell.com/en-us,49,0,0
+1575054187454,315,www.target.com,200,OK,Thread Group 1-1,text,true,,301681,119,1,1,https://www.target.com/,163,0,119
+1575054187770,1286,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6427815,116,1,1,https://www.bjs.com/,174,0,125
+1575054189057,478,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230304,244,1,1,https://www.lenovo.com/us/en/,297,0,128
+1575054189057,297,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,297,0,128
+1575054189354,181,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229200,125,1,1,https://www.lenovo.com/us/en/,68,0,0
+1575054189536,329,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495016,126,1,1,https://www.harborfreight.com/,175,0,139
+1575054189866,395,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,176746,131,1,1,https://www.dickssportinggoods.com/,279,0,130
+1575073260097,1085,www.amazon.com,200,OK,Thread Group 1-1,text,true,,103800,119,1,1,https://www.amazon.com/,927,0,834
+1575073261216,826,www.kohls.com,200,OK,Thread Group 1-1,text,true,,375226,118,1,1,https://www.kohls.com/,503,0,334
+1575073262045,648,www.walmart.com,200,OK,Thread Group 1-1,text,true,,226338,120,1,1,https://www.walmart.com/,547,0,242
+1575073262695,685,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439811,122,1,1,https://www.walgreens.com/,349,0,136
+1575073263382,574,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222773,122,1,1,https://www.homedepot.com/,463,0,193
+1575073263956,579,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128683,252,1,1,https://www.wholefoodsmarket.com/,203,0,163
+1575073263956,203,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,203,0,163
+1575073264160,375,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128376,129,1,1,https://www.wholefoodsmarket.com/,181,0,150
+1575073264544,521,www.apple.com,200,OK,Thread Group 1-1,text,true,,63945,118,1,1,https://www.apple.com/,437,0,379
+1575073265069,513,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220281,243,1,1,https://www.samsung.com/us/,259,0,224
+1575073265069,259,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,259,0,224
+1575073265328,254,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219867,123,1,1,https://www.samsung.com/us/,62,0,0
+1575073265590,638,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,227,0,156
+1575073265590,227,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,227,0,156
+1575073265817,411,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,364,0,0
+1575073266230,1155,store.google.com,200,OK,Thread Group 1-1,text,true,,2028077,121,1,1,https://store.google.com/,462,0,364
+1575073267386,674,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244596,119,1,1,https://www.sprint.com/,527,0,286
+1575073268061,315,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,230,0,140
+1575073268061,230,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,230,0,140
+1575073268291,85,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,51,0,0
+1575073268378,332,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,313010,121,1,1,https://www.samsclub.com/,200,0,130
+1575073268713,313,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,239,0,202
+1575073269028,338,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,273,0,181
+1575073269368,607,www.staples.com,200,OK,Thread Group 1-1,text,true,,560896,120,1,1,https://www.staples.com/,405,0,183
+1575073269977,366,www.dell.com,200,OK,Thread Group 1-1,text,true,,181237,239,1,1,https://www.dell.com/en-us,165,0,129
+1575073269977,165,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,165,0,129
+1575073270142,201,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179768,122,1,1,https://www.dell.com/en-us,57,0,0
+1575073270345,400,www.target.com,200,OK,Thread Group 1-1,text,true,,301240,119,1,1,https://www.target.com/,201,0,156
+1575073270749,1275,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6426012,116,1,1,https://www.bjs.com/,175,0,132
+1575073272031,783,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230302,244,1,1,https://www.lenovo.com/us/en/,450,0,307
+1575073272031,450,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,450,0,307
+1575073272481,333,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229198,125,1,1,https://www.lenovo.com/us/en/,107,0,0
+1575073272837,488,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,494992,126,1,1,https://www.harborfreight.com/,250,0,170
+1575073273327,395,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,176733,131,1,1,https://www.dickssportinggoods.com/,294,0,248
+1575073436075,481,www.amazon.com,200,OK,Thread Group 1-1,text,true,,103548,119,1,1,https://www.amazon.com/,325,0,246
+1575073436558,530,www.kohls.com,200,OK,Thread Group 1-1,text,true,,374924,118,1,1,https://www.kohls.com/,328,0,129
+1575073437090,664,www.walmart.com,200,OK,Thread Group 1-1,text,true,,226206,120,1,1,https://www.walmart.com/,476,0,183
+1575073437756,690,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439831,122,1,1,https://www.walgreens.com/,376,0,182
+1575073438448,375,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222782,122,1,1,https://www.homedepot.com/,260,0,166
+1575073438825,451,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128683,252,1,1,https://www.wholefoodsmarket.com/,170,0,140
+1575073438825,170,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,170,0,140
+1575073438997,279,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128376,129,1,1,https://www.wholefoodsmarket.com/,175,0,144
+1575073439278,387,www.apple.com,200,OK,Thread Group 1-1,text,true,,63945,118,1,1,https://www.apple.com/,315,0,253
+1575073439667,493,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220281,243,1,1,https://www.samsung.com/us/,181,0,135
+1575073439667,181,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,181,0,135
+1575073439848,312,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219867,123,1,1,https://www.samsung.com/us/,66,0,0
+1575073440163,666,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,241,0,162
+1575073440163,241,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,241,0,162
+1575073440404,425,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,374,0,0
+1575073440831,936,store.google.com,200,OK,Thread Group 1-1,text,true,,2028069,121,1,1,https://store.google.com/,334,0,217
+1575073441781,459,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244583,119,1,1,https://www.sprint.com/,315,0,236
+1575073442243,284,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,220,0,138
+1575073442243,220,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,220,0,138
+1575073442463,64,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,35,0,0
+1575073442529,385,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312998,121,1,1,https://www.samsclub.com/,242,0,162
+1575073442916,366,www.sears.com,200,OK,Thread Group 1-1,text,true,,116933,118,1,1,https://www.sears.com/,275,0,235
+1575073443285,336,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83451,118,1,1,https://www.kmart.com/,277,0,229
+1575073443623,743,www.staples.com,200,OK,Thread Group 1-1,text,true,,560908,120,1,1,https://www.staples.com/,452,0,179
+1575073444367,448,www.dell.com,200,OK,Thread Group 1-1,text,true,,181299,239,1,1,https://www.dell.com/en-us,187,0,149
+1575073444367,187,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,187,0,149
+1575073444554,261,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179768,122,1,1,https://www.dell.com/en-us,151,0,0
+1575073444818,341,www.target.com,200,OK,Thread Group 1-1,text,true,,301240,119,1,1,https://www.target.com/,183,0,135
+1575073445161,1306,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6426009,116,1,1,https://www.bjs.com/,189,0,142
+1575073446470,473,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,232462,244,1,1,https://www.lenovo.com/us/en/,278,0,129
+1575073446470,278,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,278,0,129
+1575073446748,195,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,231358,125,1,1,https://www.lenovo.com/us/en/,71,0,0
+1575073446946,379,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495016,126,1,1,https://www.harborfreight.com/,215,0,172
+1575073447327,347,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,176746,131,1,1,https://www.dickssportinggoods.com/,221,0,147
+1575078157740,479,www.amazon.com,200,OK,Thread Group 1-1,text,true,,105138,119,1,1,https://www.amazon.com/,323,0,224
+1575078158221,759,www.kohls.com,200,OK,Thread Group 1-1,text,true,,375275,118,1,1,https://www.kohls.com/,355,0,137
+1575078158985,790,www.walmart.com,200,OK,Thread Group 1-1,text,true,,226633,120,1,1,https://www.walmart.com/,690,0,313
+1575078159775,598,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439817,122,1,1,https://www.walgreens.com/,253,0,133
+1575078160381,551,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222761,122,1,1,https://www.homedepot.com/,384,0,150
+1575078160933,462,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128684,252,1,1,https://www.wholefoodsmarket.com/,206,0,178
+1575078160933,206,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,206,0,178
+1575078161139,256,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128377,129,1,1,https://www.wholefoodsmarket.com/,174,0,143
+1575078161397,539,www.apple.com,200,OK,Thread Group 1-1,text,true,,63970,118,1,1,https://www.apple.com/,460,0,368
+1575078161938,461,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220293,243,1,1,https://www.samsung.com/us/,185,0,148
+1575078161938,185,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,185,0,148
+1575078162123,276,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219879,123,1,1,https://www.samsung.com/us/,47,0,0
+1575078162401,646,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,188,0,142
+1575078162401,188,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,188,0,142
+1575078162589,458,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,410,0,0
+1575078163049,917,store.google.com,200,OK,Thread Group 1-1,text,true,,2028082,121,1,1,https://store.google.com/,352,0,244
+1575078163968,340,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244574,119,1,1,https://www.sprint.com/,211,0,135
+1575078164309,305,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,243,0,160
+1575078164309,243,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,243,0,160
+1575078164552,62,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,42,0,0
+1575078164616,311,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312997,121,1,1,https://www.samsclub.com/,184,0,131
+1575078164931,334,www.sears.com,200,OK,Thread Group 1-1,text,true,,116956,118,1,1,https://www.sears.com/,268,0,195
+1575078165268,263,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83450,118,1,1,https://www.kmart.com/,203,0,161
+1575078165532,674,www.staples.com,200,OK,Thread Group 1-1,text,true,,560884,120,1,1,https://www.staples.com/,437,0,166
+1575078166208,357,www.dell.com,200,OK,Thread Group 1-1,text,true,,181300,239,1,1,https://www.dell.com/en-us,192,0,136
+1575078166208,192,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,192,0,136
+1575078166400,165,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179769,122,1,1,https://www.dell.com/en-us,72,0,0
+1575078166571,358,www.target.com,200,OK,Thread Group 1-1,text,true,,301240,119,1,1,https://www.target.com/,171,0,124
+1575078166931,1875,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6427524,116,1,1,https://www.bjs.com/,205,0,160
+1575078168807,406,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230299,244,1,1,https://www.lenovo.com/us/en/,200,0,165
+1575078168807,200,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,200,0,165
+1575078169008,205,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229195,125,1,1,https://www.lenovo.com/us/en/,66,0,0
+1575078169214,445,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495016,126,1,1,https://www.harborfreight.com/,192,0,156
+1575078169664,414,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,176710,131,1,1,https://www.dickssportinggoods.com/,305,0,208
+1575078396205,397,www.amazon.com,200,OK,Thread Group 1-1,text,true,,103943,119,1,1,https://www.amazon.com/,257,0,144
+1575078396604,614,www.kohls.com,200,OK,Thread Group 1-1,text,true,,375250,118,1,1,https://www.kohls.com/,255,0,130
+1575078397220,610,www.walmart.com,200,OK,Thread Group 1-1,text,true,,226335,120,1,1,https://www.walmart.com/,496,0,133
+1575078397831,662,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439861,122,1,1,https://www.walgreens.com/,332,0,154
+1575078398496,475,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222777,122,1,1,https://www.homedepot.com/,367,0,154
+1575078398973,417,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128684,252,1,1,https://www.wholefoodsmarket.com/,161,0,132
+1575078398973,161,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,161,0,132
+1575078399135,255,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128377,129,1,1,https://www.wholefoodsmarket.com/,163,0,133
+1575078399391,412,www.apple.com,200,OK,Thread Group 1-1,text,true,,63971,118,1,1,https://www.apple.com/,339,0,269
+1575078399805,420,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220281,243,1,1,https://www.samsung.com/us/,175,0,136
+1575078399805,175,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,175,0,136
+1575078399980,245,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219867,123,1,1,https://www.samsung.com/us/,58,0,0
+1575078400227,698,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,292,0,232
+1575078400227,292,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,292,0,232
+1575078400519,406,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,362,0,0
+1575078400926,927,store.google.com,200,OK,Thread Group 1-1,text,true,,2028081,121,1,1,https://store.google.com/,317,0,205
+1575078401855,381,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244574,119,1,1,https://www.sprint.com/,248,0,148
+1575078402239,296,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,212,0,124
+1575078402239,212,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,212,0,124
+1575078402451,84,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,40,0,0
+1575078402537,349,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312938,121,1,1,https://www.samsclub.com/,200,0,130
+1575078402888,491,www.sears.com,200,OK,Thread Group 1-1,text,true,,116946,118,1,1,https://www.sears.com/,415,0,211
+1575078403380,378,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83494,118,1,1,https://www.kmart.com/,313,0,195
+1575078403760,793,www.staples.com,200,OK,Thread Group 1-1,text,true,,560965,120,1,1,https://www.staples.com/,581,0,153
+1575078404558,488,www.dell.com,200,OK,Thread Group 1-1,text,true,,181237,239,1,1,https://www.dell.com/en-us,241,0,190
+1575078404558,241,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1469,117,1,1,https://www.dell.com/,241,0,190
+1575078404799,247,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179768,122,1,1,https://www.dell.com/en-us,65,0,0
+1575078405048,431,www.target.com,200,OK,Thread Group 1-1,text,true,,301240,119,1,1,https://www.target.com/,229,0,182
+1575078405483,1379,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6427525,116,1,1,https://www.bjs.com/,211,0,167
+1575078406864,446,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230299,244,1,1,https://www.lenovo.com/us/en/,188,0,148
+1575078406864,188,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,188,0,148
+1575078407052,258,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229195,125,1,1,https://www.lenovo.com/us/en/,114,0,0
+1575078407312,387,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495004,126,1,1,https://www.harborfreight.com/,207,0,135
+1575078407701,355,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,176722,131,1,1,https://www.dickssportinggoods.com/,244,0,141
+1575081034020,485,www.amazon.com,200,OK,Thread Group 1-1,text,true,,103285,119,1,1,https://www.amazon.com/,322,0,230
+1575081034507,672,www.kohls.com,200,OK,Thread Group 1-1,text,true,,375200,118,1,1,https://www.kohls.com/,245,0,146
+1575081035183,873,www.walmart.com,200,OK,Thread Group 1-1,text,true,,226674,120,1,1,https://www.walmart.com/,668,0,146
+1575081036057,1077,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439870,122,1,1,https://www.walgreens.com/,650,0,341
+1575081037136,1448,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222777,122,1,1,https://www.homedepot.com/,1332,0,1236
+1575081038587,536,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128684,252,1,1,https://www.wholefoodsmarket.com/,259,0,226
+1575081038587,259,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,259,0,226
+1575081038847,276,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128377,129,1,1,https://www.wholefoodsmarket.com/,169,0,140
+1575081039125,459,www.apple.com,200,OK,Thread Group 1-1,text,true,,63971,118,1,1,https://www.apple.com/,384,0,276
+1575081039586,631,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220283,243,1,1,https://www.samsung.com/us/,235,0,196
+1575081039586,235,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,235,0,196
+1575081039822,395,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219869,123,1,1,https://www.samsung.com/us/,156,0,0
+1575081040218,690,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,245,0,170
+1575081040218,245,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,245,0,170
+1575081040463,445,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,403,0,0
+1575081040911,912,store.google.com,200,OK,Thread Group 1-1,text,true,,2028127,121,1,1,https://store.google.com/,359,0,245
+1575081041823,459,www.sprint.com,200,OK,Thread Group 1-1,text,true,,244574,119,1,1,https://www.sprint.com/,323,0,166
+1575081042284,291,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52786,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,230,0,144
+1575081042284,230,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,230,0,144
+1575081042515,60,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52609,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,31,0,0
+1575081042577,347,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,312998,121,1,1,https://www.samsclub.com/,209,0,140
+1575081042926,283,www.sears.com,200,OK,Thread Group 1-1,text,true,,116956,118,1,1,https://www.sears.com/,218,0,165
+1575081043211,282,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83450,118,1,1,https://www.kmart.com/,210,0,167
+1575081043495,569,www.staples.com,200,OK,Thread Group 1-1,text,true,,560908,120,1,1,https://www.staples.com/,385,0,179
+1575081044065,382,www.dell.com,200,OK,Thread Group 1-1,text,true,,181287,239,1,1,https://www.dell.com/en-us,167,0,135
+1575081044065,168,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,167,0,135
+1575081044233,214,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,179756,122,1,1,https://www.dell.com/en-us,43,0,0
+1575081044449,332,www.target.com,200,OK,Thread Group 1-1,text,true,,301240,119,1,1,https://www.target.com/,183,0,136
+1575081044783,1390,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6429739,116,1,1,https://www.bjs.com/,182,0,142
+1575081046177,1032,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230299,244,1,1,https://www.lenovo.com/us/en/,515,0,364
+1575081046177,515,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,515,0,364
+1575081046692,517,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229195,125,1,1,https://www.lenovo.com/us/en/,248,0,0
+1575081047210,1284,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495016,126,1,1,https://www.harborfreight.com/,453,0,362
+1575081048500,916,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,176734,131,1,1,https://www.dickssportinggoods.com/,526,0,403
+1575133949596,499,www.amazon.com,200,OK,Thread Group 1-1,text,true,,99320,119,1,1,https://www.amazon.com/,335,0,255
+1575133950097,618,www.kohls.com,200,OK,Thread Group 1-1,text,true,,314146,118,1,1,https://www.kohls.com/,297,0,193
+1575133950717,624,www.walmart.com,200,OK,Thread Group 1-1,text,true,,238193,120,1,1,https://www.walmart.com/,494,0,155
+1575133951343,852,www.walgreens.com,200,OK,Thread Group 1-1,text,true,,1439863,122,1,1,https://www.walgreens.com/,446,0,251
+1575133952197,565,www.homedepot.com,200,OK,Thread Group 1-1,text,true,,222779,122,1,1,https://www.homedepot.com/,425,0,213
+1575133952764,966,www.wholefoods.com,200,OK,Thread Group 1-1,text,true,,128778,252,1,1,https://www.wholefoodsmarket.com/,507,0,244
+1575133952764,507,www.wholefoods.com-0,301,Found,Thread Group 1-1,,true,,307,123,1,1,https://www.wholefoods.com/,507,0,244
+1575133953272,458,www.wholefoods.com-1,200,OK,Thread Group 1-1,text,true,,128471,129,1,1,https://www.wholefoodsmarket.com/,311,0,236
+1575133953732,375,www.apple.com,200,OK,Thread Group 1-1,text,true,,85982,118,1,1,https://www.apple.com/,280,0,245
+1575133954108,679,www.samsung.com,200,OK,Thread Group 1-1,text,true,,220079,243,1,1,https://www.samsung.com/us/,337,0,295
+1575133954108,337,www.samsung.com-0,301,Moved Permanently,Thread Group 1-1,,true,,414,120,1,1,https://www.samsung.com/,337,0,295
+1575133954446,341,www.samsung.com-1,200,OK,Thread Group 1-1,text,true,,219665,123,1,1,https://www.samsung.com/us/,85,0,0
+1575133954789,937,www.vizio.com,200,OK,Thread Group 1-1,text,true,,112214,243,1,1,https://www.vizio.com/en/home,452,0,359
+1575133954789,452,www.vizio.com-0,301,Moved Permanently,Thread Group 1-1,text,true,,464,118,1,1,https://www.vizio.com/,452,0,359
+1575133955241,485,www.vizio.com-1,200,OK,Thread Group 1-1,text,true,,111750,125,1,1,https://www.vizio.com/en/home,399,0,0
+1575133955728,1230,store.google.com,200,OK,Thread Group 1-1,text,true,,2028080,121,1,1,https://store.google.com/,465,0,309
+1575133956960,601,www.sprint.com,200,OK,Thread Group 1-1,text,true,,246635,119,1,1,https://www.sprint.com/,350,0,270
+1575133957564,508,www.verizon.com,200,OK,Thread Group 1-1,text,true,,52789,279,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,407,0,296
+1575133957564,407,www.verizon.com-0,302,Found,Thread Group 1-1,,true,,177,120,1,1,https://www.verizon.com/,407,0,296
+1575133957972,100,www.verizon.com-1,200,OK,Thread Group 1-1,text,true,,52612,159,1,1,https://www.verizon.com/home/verizonglobalhome/ghp_landing.aspx,67,0,0
+1575133958074,490,www.samsclub.com,200,OK,Thread Group 1-1,text,true,,313052,121,1,1,https://www.samsclub.com/,316,0,276
+1575133958567,440,www.sears.com,200,OK,Thread Group 1-1,text,true,,116956,118,1,1,https://www.sears.com/,358,0,256
+1575133959010,532,www.kmart.com,200,OK,Thread Group 1-1,text,true,,83488,118,1,1,https://www.kmart.com/,413,0,288
+1575133959546,1005,www.staples.com,200,OK,Thread Group 1-1,text,true,,560860,120,1,1,https://www.staples.com/,419,0,217
+1575133960555,549,www.dell.com,200,OK,Thread Group 1-1,text,true,,197034,239,1,1,https://www.dell.com/en-us,291,0,252
+1575133960555,291,www.dell.com-0,302,Moved Temporarily,Thread Group 1-1,text,true,,1531,117,1,1,https://www.dell.com/,291,0,252
+1575133960846,258,www.dell.com-1,200,OK,Thread Group 1-1,text,true,,195503,122,1,1,https://www.dell.com/en-us,92,0,0
+1575133961106,506,www.target.com,200,OK,Thread Group 1-1,text,true,,305715,119,1,1,https://www.target.com/,330,0,284
+1575133961614,2932,www.bjs.com,200,OK,Thread Group 1-1,text,true,,6144553,116,1,1,https://www.bjs.com/,323,0,248
+1575133964548,536,www.lenovo.com,200,OK,Thread Group 1-1,text,true,,230539,244,1,1,https://www.lenovo.com/us/en/,293,0,244
+1575133964548,293,www.lenovo.com-0,301,Moved Permanently,Thread Group 1-1,,true,,1104,119,1,1,https://www.lenovo.com/,293,0,244
+1575133964841,243,www.lenovo.com-1,200,OK,Thread Group 1-1,text,true,,229435,125,1,1,https://www.lenovo.com/us/en/,97,0,0
+1575133965087,805,www.harborfreight.com,200,OK,Thread Group 1-1,text,true,,495183,126,1,1,https://www.harborfreight.com/,271,0,230
+1575133965895,800,www.dickssportinggoods.com,200,OK,Thread Group 1-1,text,true,,181528,131,1,1,https://www.dickssportinggoods.com/,695,0,650
