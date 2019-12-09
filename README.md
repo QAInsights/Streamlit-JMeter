@@ -17,3 +17,7 @@ By integrating Streamlit with Apache JMeter, you can build machine learning mode
 
 Use the latest version as possible.
 
+## Streamlit Installation
+
+I used Anaconda to install the Streamlit, you can follow the instructions mentioned ()[https://streamlit.io/docs/getting_started.html]
+
