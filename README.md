@@ -30,4 +30,4 @@ I prefer [Anaconda](https://www.anaconda.com/) to install the Streamlit, you can
 
 ## Streamlit Hello World
 
-After installing all the necessary components, you could run a `hello world` program by `streamlit hello`.
+After installing all the necessary components, you could run a `hello` program by invoking `streamlit hello`. This will open a browser (or new tab). You can run Streamlit from your Github Gists, e.g. `streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/app.py`
