@@ -31,3 +31,16 @@ I prefer [Anaconda](https://www.anaconda.com/) to install the Streamlit, you can
 ## Streamlit Hello World
 
 After installing all the necessary components, you could run a `hello` program by invoking `streamlit hello`. This will open a browser (or new tab). You can run Streamlit from your Github Gists, e.g. `streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/app.py`
+
+## Streamlit + JMeter
+
+By leveraging Streamlit with JMeter which brings machine learning capabailities to detect the anamolies and to study the performance of your application. Using this repo, you can run your JMeter scripts and visualize the results instantly.
+
+Streamlit brings intuitive user interface for your JMeter execution and results analysis.
+
+## How to implement Streamlit with JMeter?
+
+* Download/Clone this repo
+* Place the contents in your JMETER_HOME\bin folder
+* Launch Streamlit by `streamlit run jmeter.py'
+
