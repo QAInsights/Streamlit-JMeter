@@ -22,7 +22,12 @@ Use the latest version as possible.
 
 ## Streamlit Installation
 
-I prefer Anaconda to install the Streamlit, you can follow the instructions mentioned [here](https://streamlit.io/docs/getting_started.html).
+I prefer [Anaconda](https://www.anaconda.com/) to install the Streamlit, you can follow the instructions mentioned [here](https://streamlit.io/docs/getting_started.html).
 
 ## JMeter Installation
 
+[Getting Started](https://jmeter.apache.org/usermanual/get-started.html#running) with JMeter.
+
+## Streamlit Hello World
+
+After installing all the necessary components, you could run a `hello world` program by `streamlit hello`.
