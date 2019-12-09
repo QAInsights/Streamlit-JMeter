@@ -1,4 +1,4 @@
-# Powering Apache JMeter with Streamlit
+# Powering up Apache JMeter with Streamlit
 
 ## Overview
 
@@ -7,4 +7,13 @@ Apache JMeter is an open source load testing tool written in 100% pure Java. JMe
 Streamlit is an open source framework for Machine Learning and Data Sciences team. You can build tools to visualize the data and interactive prototypes.
 
 ## Apache JMeter + Streamlit
+
+By integrating Streamlit with Apache JMeter, you can build machine learning models to train to detect anomalies from your JMeter test results. This project is just a beginning where you can execute and visualize the test results in interactive charts.
+
+## Prerequisities
+
+* Apache JMeter
+* Streamlit 
+
+Use the latest version as possible.
 
