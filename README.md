@@ -42,5 +42,18 @@ Streamlit brings intuitive user interface for your JMeter execution and results 
 
 * Download/Clone this repo
 * Place the contents in your JMETER_HOME\bin folder
-* Launch Streamlit by `streamlit run jmeter.py'
+* Launch Streamlit by `streamlit run jmeter_v1.py'
+
+You could see the Streamlit app in your favorite browser. 
+
+### Execute
+
+### Analyze
+
+### Limitations
+
+
+### Known Issues
+
+### What's next?
 
