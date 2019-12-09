@@ -12,12 +12,17 @@ By integrating Streamlit with Apache JMeter, you can build machine learning mode
 
 ## Prerequisities
 
-* Apache JMeter
-* Streamlit 
+* [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi)
+* Your favorite IDE (I love [VS Code](https://code.visualstudio.com/))
+* [Python 2.7.0 or later / Python 3.6.x or later](https://www.python.org/downloads/)
+* [PIP](https://pip.pypa.io/en/stable/installing/)
+* [Streamlit](https://streamlit.io/docs/index.html)
 
 Use the latest version as possible.
 
 ## Streamlit Installation
 
-I used Anaconda to install the Streamlit, you can follow the instructions mentioned [here](https://streamlit.io/docs/getting_started.html).
+I prefer Anaconda to install the Streamlit, you can follow the instructions mentioned [here](https://streamlit.io/docs/getting_started.html).
+
+## JMeter Installation
 
