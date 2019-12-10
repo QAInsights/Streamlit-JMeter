@@ -1,9 +1,20 @@
 import streamlit as st
 
 def display_about():
-    st.title('About')
+    st.markdown('## About')
+
+    st.markdown('By leveraging Streamlit with [JMeter](http://jmeter.apache.org) which brings machine learning capabailities to detect the anamolies and to study the performance of your application.\
+            Using this repo, you can run your JMeter scripts and visualize the results instantly. \
+            Streamlit brings intuitive user interface for your JMeter execution and results analysis.')
+    
     st.markdown('![JMeter Streamlit](https://raw.githubusercontent.com/QAInsights/Streamlit-JMeter/master/images/header.jpg)')
-    st.markdown('---')
+    st.markdown('### Limitations')
+    st.markdown('* Supports only CSV results ')
+
+    st.markdown('### Known Issues')
+    st.markdown('* Doesn\'t execute if the JMeter file name which has space')
+    st.markdown('* Quick Navigation between Execute and Analyze may break the code')
+    st.markdown('* Doesn\'t display the JMeter test results runtime')
 
 def display_sidebar():
     st.sidebar.markdown('---')
@@ -16,5 +27,3 @@ def display_sidebar():
     st.sidebar.info('This app has been developed by [NaveenKumar Namachivayam](https://qainsights.com) using [Python](https://www.python.org/), \
     [Streamlit](https://streamlit.io/), and [Vega Lite](https://vega.github.io/vega-lite/). You can checkout the source code at \
     [GitHub](https://github.com/QAInsights/Streamlit-JMeter).')
-    
-
