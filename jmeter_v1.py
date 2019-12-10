@@ -20,7 +20,7 @@ def jmeter_execute():
     for f in os.listdir("."):
         if f.endswith('.jmx'):
             jmeterFileNames.append(f)
-    selected_filename = st.selectbox('Select a file to analyze',jmeterFileNames)
+    selected_filename = st.selectbox('Select a file to execute',jmeterFileNames)
     os.chdir(JMETER_HOME)
     st.text(os.getcwd())
     cmd = "jmeter -n -t" + selected_filename
@@ -34,7 +34,7 @@ def jmeter_analyze():
     for f in os.listdir("."):
         if f.endswith('.csv'):
             jmeterResults.append(f)
-    selected_filename = st.selectbox('Select a file to analyze', jmeterResults)
+    selected_filename = st.selectbox('Select a file to analyze (supports only CSV extension)', jmeterResults)
     return os.path.join(selected_filename)
 
 def main():
@@ -59,16 +59,21 @@ def main():
 
     #if jmeter_run == 'Analyze':
     if menu_sel == 'Analyze JMeter Test Results':
+        st.title('Analyze JMeter Test Results')
+
         filename = jmeter_analyze()
         st.write('You selected `%s`' % filename)
         #DATA_URL = ('C:\\Users\\Navee\\OneDrive\\Documents\\Tools\\apache-jmeter-5.2\\bin\\Run2.csv')
         DATA_URL = filename
 
+        st.markdown('')
+        # Show Graphs Checkbox
+        show_graphs = st.checkbox('Show Graphs')
+
         st.title('Apache JMeter Load Test Results')
 
         data = pd.read_csv(DATA_URL)
-        show_graphs = st.sidebar.checkbox('Show Graphs')
-
+        
         #Display Start Time
         startTime = data['timeStamp'].iloc[0]/1000
         startTime = datetime.datetime.fromtimestamp(startTime).strftime('%Y-%m-%d %H:%M:%S')
@@ -81,7 +86,7 @@ def main():
         FMT = '%Y-%m-%d %H:%M:%S'
         delta = datetime.datetime.strptime(endTime, FMT) - datetime.datetime.strptime(startTime, FMT)
 
-        st.write('Total duration of the test is HH:MM:SS ', delta)
+        st.write('Total duration of the test (HH:MM:SS) is ', delta)
 
         st.subheader('Summary Report - Response Time')
         st.write(data.groupby('label')['elapsed'].describe(percentiles=[0.75,0.95,0.99]))
