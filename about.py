@@ -2,8 +2,8 @@ import streamlit as st
 
 def display_about():
     st.title('About')
+    st.markdown('![JMeter Streamlit](https://raw.githubusercontent.com/QAInsights/Streamlit-JMeter/master/images/header.jpg)')
     st.markdown('---')
-    st.markdown('![JMeter Streamlit](/images/header.jpg)')
 
 def display_sidebar():
     st.sidebar.markdown('---')
