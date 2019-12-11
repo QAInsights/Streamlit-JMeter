@@ -1,2 +1,2 @@
 language: python
-script: pytest
+script: python3 app.py
