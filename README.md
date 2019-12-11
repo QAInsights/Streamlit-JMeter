@@ -76,7 +76,7 @@ At top right corner, you could see the progress of the app.
 
 ![Running](images/Running.png)
 
-To monitor the performance, go to the command prompt which display the run time stats.
+To monitor the performance, go to the command prompt which displays the run time stats.
 
 If you would like to stop the script execution, go to the command prompt and issue the `CTRL + C` shortcut.
 
