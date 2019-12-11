@@ -66,7 +66,7 @@ Streamlit brings intuitive user interface for your JMeter execution and results 
 
 To execute JMeter test plan, click on left sidebar widget and then click on `Execute JMeter Test Plan` radio button. This will bring up the page where you can select the JMeter test plan as shown below.
 
-![Execute](.\images/Execute.png)
+![Execute](images/Execute.png)
 
 After selecting the JMX file, click on `Run` button to execute the JMeter test plan. This will execute your test plan in CLI mode and generates unique log file and place it in the `bin` folder.
 
