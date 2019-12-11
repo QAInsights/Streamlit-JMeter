@@ -38,22 +38,75 @@ By leveraging Streamlit with JMeter which brings machine learning capabailities 
 
 Streamlit brings intuitive user interface for your JMeter execution and results analysis.
 
-## How to implement Streamlit with JMeter?
+### Prerequisite
 
-* Download/Clone this repo
-* Place the contents in your JMETER_HOME\bin folder
-* Launch Streamlit by `streamlit run jmeter_v1.py'
+* Set the environment variable `JMETER_HOME` pointing to your `apache-jmeter` folder. E.g. `C:\apache-jmeter-5.2`
+* Make sure the changes are propogated in your system. You may need to kill the explorer or restart your system.
+* You can check the changes are reflected by issuing the command `%JMETER_HOME` in the command prompt.
 
-You could see the Streamlit app in your favorite browser. 
+### Launch
 
-### Execute
+* Run the below command to get started
+  
+`python -m pip install -r .\requirements.txt`
+
+* Clone this repository and navigate into it.
+* In the command prompt, enter the below command
+
+`streamlit run app.py`
+
+* In case of powershell, issue the below command
+
+`streamlit run .\app.py`
+
+* This will open a new tab or launch the default browser with the URL http://localhost:8501
+* You could see the `About` page
+
+### Execute JMeter Test Plan
+
+To execute JMeter test plan, click on left sidebar widget and then click on `Execute JMeter Test Plan` radio button. This will bring up the page where you can select the JMeter test plan as shown below.
+
+![Execute](.\images/Execute.png)
+
+After selecting the JMX file, click on `Run` button to execute the JMeter test plan. This will execute your test plan in CLI mode and generates unique log file and place it in the `bin` folder.
+
+![Execution in progress](images/Execution-Started.png)
+
+At top right corner, you could see the progress of the app.
+
+![Running](images/Running.png)
+
+To monitor the performance, go to the command prompt which display the run time stats.
+
+If you would like to stop the script execution, go to the command prompt and issue the `CTRL + C` shortcut.
 
 ### Analyze
 
-### Limitations
+To analyze the test results, click on `Analyze JMeter Test Results` radio button which will bring up the page as shown below. Select the csv file to analyze which will display the metrics such as start time, end time, summart report etc. 
 
+To view the graphs, click on `Show Graphs` check box.
+
+![Analyze](images/Analyze.png)
+
+All the graphs are interactive, on need basis you can generate variety of combinations by custom coding. Under the hood, graphs plotted using `vega-lite`.
+
+![Graphs](images/Graphs.png)
+
+### Limitations
+* Supports only CSV results
+* By default, it fetches all the files from the JMETER_HOME folder. 
+* Limited number of charts has been added, other type of charts can be added by custom coding.
 
 ### Known Issues
+* Doesn't execute if the JMeter file name which has space
+* Quick Navigation between Execute and Analyze may break the code, you may need to launch the app again.
+* Doesn't display the JMeter test results runtime
 
 ### What's next?
+
+* This is just a inception version where I experimented the capabilties of `streamlit`. The next big thing is writing a training model to detect the anamolies and predict the point of failure which is work-in-progress.
+
+### Notes
+
+* I am not a professional developer nor a good open-source maintainer. My code may not have the standards, but it will do its job if everything is propertly set.
 
