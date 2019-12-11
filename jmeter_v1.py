@@ -5,30 +5,57 @@ import datetime
 import numpy as np
 import subprocess
 import os
+import uuid
 import about
 from pandas import DataFrame
 
-JMETER_HOME = 'C:/Users/Navee/OneDrive/Documents/Tools/apache-jmeter-5.2/bin'
+# Get JMETER_HOME environment variable
+
+JMETER_PATH = os.environ['JMETER_HOME']
+
 def main_about():
     st.title('About')
     st.markdown('---')
     #Display About section
 
-def jmeter_execute():
+def jmeter_execute_load():
+    global JMETER_PATH
+    #Changing Directory to Root
+    #os.chdir('.')
+    os.chdir(JMETER_PATH + '\\bin')
     jmeterFileNames = []
+    
     # Find only JMeter test plans
     for f in os.listdir("."):
         if f.endswith('.jmx'):
             jmeterFileNames.append(f)
     selected_filename = st.selectbox('Select a file to execute',jmeterFileNames)
-    os.chdir(JMETER_HOME)
-    st.text(os.getcwd())
-    cmd = "jmeter -n -t" + selected_filename
-    os.chdir(".")
+    st.write('You selected `%s`' % selected_filename + '. To execute this test plan, click on Run button as shown below.')
+    st.info('JMeter Path is ' + JMETER_PATH)
+    if st.button('Run'):
+        st.info('Execution has been started, you can monitor the stats in the command prompt.')
+        jmeter_execute(selected_filename)
+    #jmeterfilename = jmeter_execute()
+    #st.write('You selected `%s`' % jmeterfilename)
+
+def jmeter_execute(selected_filename):
+    global JMETER_PATH
+    
+    logFileName = str(uuid.uuid1())
+    logFileName = logFileName + ".csv"
+    
+    st.text('Results file is ' + logFileName)
+
+    os.chdir(JMETER_PATH + '\\bin')
+    #st.text('Your curret directory is ' + os.getcwd())
+    cmd = "jmeter.bat -n -t " + selected_filename + " -l " + logFileName
+    st.text('Executing ' + cmd)
+    #os.chdir(".")
     returned_value = os.system(cmd)
 
 def jmeter_analyze():
     jmeterResults = []
+    os.chdir(JMETER_PATH + '\\bin')
     filenames = os.listdir(".")
     # Find only JMeter test results
     for f in os.listdir("."):
@@ -38,6 +65,7 @@ def jmeter_analyze():
     return os.path.join(selected_filename)
 
 def main():
+
     menu_list = ['Execute JMeter Test Plan','Analyze JMeter Test Results', 'Home']
     # Display options in Sidebar
     st.sidebar.title('Navigation')
@@ -54,8 +82,9 @@ def main():
     if menu_sel == 'Execute JMeter Test Plan':
     #jmeter_run = st.radio('Select',('Default','Execute','Analyze'))
     #if jmeter_run == 'Execute':
-        jmeterfilename = jmeter_execute()
-        st.write('You selected `%s`' % jmeterfilename)
+        st.title('Execute JMeter Test Plan')
+        jmeter_execute_load()
+
 
     #if jmeter_run == 'Analyze':
     if menu_sel == 'Analyze JMeter Test Results':

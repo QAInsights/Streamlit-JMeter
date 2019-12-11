@@ -16,6 +16,7 @@ def display_about():
     st.markdown('* Quick Navigation between Execute and Analyze may break the code')
     st.markdown('* Doesn\'t display the JMeter test results runtime')
 
+
 def display_sidebar():
     st.sidebar.markdown('---')
     
