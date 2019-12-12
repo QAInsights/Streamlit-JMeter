@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/QAInsights/Streamlit-JMeter.svg?branch=master)](https://travis-ci.org/QAInsights/Streamlit-JMeter)
+
 # Powering up Apache JMeter with Streamlit
 
 ## Overview
