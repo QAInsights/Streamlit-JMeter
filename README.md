@@ -48,11 +48,11 @@ Streamlit brings intuitive user interface for your JMeter execution and results 
 
 ### Launch
 
+* Clone this repository and navigate into it.
 * Run the below command to get started
   
 `python -m pip install -r .\requirements.txt`
 
-* Clone this repository and navigate into it.
 * In the command prompt, enter the below command
 
 `streamlit run app.py`
