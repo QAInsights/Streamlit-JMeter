@@ -10,7 +10,7 @@ Streamlit is an open source framework for Machine Learning and Data Sciences tea
 
 By integrating Streamlit with Apache JMeter, you can build machine learning models to train to detect anomalies from your JMeter test results. This project is just a beginning where you can execute and visualize the test results in interactive charts.
 
-## Prerequisities
+## Prerequisites
 
 * [Apache JMeter](https://jmeter.apache.org/download_jmeter.cgi)
 * Your favorite IDE (I ❤ [VS Code](https://code.visualstudio.com/))
@@ -30,18 +30,18 @@ I prefer [Anaconda](https://www.anaconda.com/) to install the Streamlit, you can
 
 ## Streamlit Hello World
 
-After installing all the necessary components, you could run a `hello` program by invoking `streamlit hello`. This will open a browser (or new tab). You can run Streamlit from your Github Gists, e.g. `streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/app.py`
+After installing all the necessary components, you could run a `hello` program by invoking `streamlit hello`. This will open a browser (or new tab). You can run Streamlit from your GitHub Gists, e.g. `streamlit run https://raw.githubusercontent.com/streamlit/demo-uber-nyc-pickups/master/app.py`
 
 ## Streamlit + JMeter
 
-By leveraging Streamlit with JMeter which brings machine learning capabailities to detect the anamolies and to study the performance of your application. Using this repo, you can run your JMeter scripts and visualize the results instantly.
+By leveraging Streamlit with JMeter which brings machine learning capabilities to detect the anomalies and to study the performance of your application. Using this repo, you can run your JMeter scripts and visualize the results instantly.
 
 Streamlit brings intuitive user interface for your JMeter execution and results analysis.
 
 ### Prerequisite
 
 * Set the environment variable `JMETER_HOME` pointing to your `apache-jmeter` folder. E.g. `C:\apache-jmeter-5.2`
-* Make sure the changes are propogated in your system. You may need to kill the explorer or restart your system.
+* Make sure the changes are propagated in your system. You may need to kill the explorer or restart your system.
 * You can check the changes are reflected by issuing the command `%JMETER_HOME` in the command prompt.
 
 ### Launch
@@ -55,12 +55,14 @@ Streamlit brings intuitive user interface for your JMeter execution and results 
 
 `streamlit run app.py`
 
-* In case of powershell, issue the below command
+* In case of PowerShell, issue the below command
 
 `streamlit run .\app.py`
 
 * This will open a new tab or launch the default browser with the URL http://localhost:8501
-* You could see the `About` page
+* You could see the `About` page as shown below.
+
+![About](images/About.png)
 
 ### Execute JMeter Test Plan
 
@@ -82,7 +84,7 @@ If you would like to stop the script execution, go to the command prompt and iss
 
 ### Analyze
 
-To analyze the test results, click on `Analyze JMeter Test Results` radio button which will bring up the page as shown below. Select the csv file to analyze which will display the metrics such as start time, end time, summart report etc. 
+To analyze the test results, click on `Analyze JMeter Test Results` radio button which will bring up the page as shown below. Select the csv file to analyze which will display the metrics such as start time, end time, summary report etc. 
 
 To view the graphs, click on `Show Graphs` check box.
 
@@ -104,9 +106,4 @@ All the graphs are interactive, on need basis you can generate variety of combin
 
 ### What's next?
 
-* This is just a inception version where I experimented the capabilties of `streamlit`. The next big thing is writing a training model to detect the anamolies and predict the point of failure which is work-in-progress.
-
-### Notes
-
-* I am not a professional developer nor a good open-source maintainer. My code may not have the standards, but it will do its job if everything is propertly set.
-
+* This is just a inception version where I experimented the capabilities of `streamlit`. The next big thing is writing a training model to detect the anomalies and predict the point of failure which is work-in-progress.
