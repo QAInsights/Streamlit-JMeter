@@ -9,7 +9,8 @@ Welcome to Streamlit-JMeter's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+    source/install.rst
+    source/about.rst
 
 
 Indices and tables
