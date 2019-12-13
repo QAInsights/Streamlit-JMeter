@@ -1,4 +1,5 @@
-[![Build Status](https://travis-ci.org/QAInsights/Streamlit-JMeter.svg?branch=master)](https://travis-ci.org/QAInsights/Streamlit-JMeter)
+[![Build Status](https://travis-ci.org/QAInsights/Streamlit-JMeter.svg?branch=master)](https://travis-ci.org/QAInsights/Streamlit-JMeter) 
+[![Documentation Status](https://readthedocs.org/projects/streamlit-jmeter/badge/?version=latest)](https://streamlit-jmeter.readthedocs.io/?badge=latest)
 
 # Powering up Apache JMeter with Streamlit
 
