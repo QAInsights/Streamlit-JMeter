@@ -1,16 +1,22 @@
 .. Streamlit-JMeter documentation master file, created by
-   sphinx-quickstart on Thu Dec 12 21:39:52 2019.
+   sphinx-quickstart on Thu Dec 12 21:53:15 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Streamlit-JMeter's documentation!
-============================================
+Welcome to Streamlit-JMeter's help and documentation!
+=====================================================
+
+About
+^^^^^
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-    source/install.rst
-    source/about.rst
+
+   install
+   execute
+   analyze
+
+
 
 
 Indices and tables
