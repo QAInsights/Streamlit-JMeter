@@ -15,6 +15,7 @@ About
    install
    execute
    analyze
+   contents
 
 
 
