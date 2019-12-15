@@ -45,7 +45,7 @@ Streamlit brings intuitive user interface for your JMeter execution and results 
 
 * Set the environment variable `JMETER_HOME` pointing to your `apache-jmeter` folder. E.g. `C:\apache-jmeter-5.2`
 * Make sure the changes are propagated in your system. You may need to kill the explorer or restart your system.
-* You can check the changes are reflected by issuing the command `%JMETER_HOME` in the command prompt.
+* You can check the changes are reflected by issuing the command `%JMETER_HOME%` in the command prompt.
 
 ### Launch
 
