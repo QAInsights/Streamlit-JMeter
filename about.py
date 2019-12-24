@@ -9,9 +9,10 @@ def display_about():
     
     st.markdown('![JMeter Streamlit](https://raw.githubusercontent.com/QAInsights/Streamlit-JMeter/master/images/header.jpg)')
     st.markdown('### Limitations')
-    st.markdown('* Supports only CSV results ')
+    st.markdown('* Supports only CSV results')
     st.markdown('* By default, it fetches all the files from the `JMETER_HOME` folder.')
     st.markdown('* Limited number of charts has been added, other type of charts can be added by custom coding.')
+    st.markdown('* Doesn\'t support distributed load testing model.')
 
     st.markdown('### Known Issues')
     st.markdown('* Doesn\'t execute if the JMeter file name which has space')

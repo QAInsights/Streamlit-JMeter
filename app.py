@@ -1,12 +1,14 @@
+import string
+import random
 import streamlit as st
 import pandas as pd
 import numpy as np
 import datetime
-import numpy as np
 import subprocess
 import os
 import uuid
 import about
+import pandas_profiling
 from pandas import DataFrame
 
 # Get JMETER_HOME environment variable
@@ -17,6 +19,18 @@ def main_about():
     st.title('About')
     st.markdown('---')
     #Display About section
+
+def pd_profile(filename):
+    df = pd.read_csv(JMETER_PATH + '\\bin\\' + filename)
+    report = pandas_profiling.ProfileReport(df)
+    #st.write(pandas_profiling.__version__)
+    random_filename = ''.join(random.choices(string.ascii_uppercase + string.digits, k = 24)) 
+    random_filename = random_filename + ".html"
+    st.write('Report file name is `%s`' % random_filename + ' . Report is located at ' + JMETER_PATH + '\\bin\\')
+    #st.write('You selected `%s`' % selected_filename + '. To execute this test plan, click on Run button as shown below.')
+    report.to_file(output_file=random_filename)
+    #st.markdown(report)
+    return 
 
 def jmeter_execute_load():
     global JMETER_PATH
@@ -99,8 +113,17 @@ def main():
         # Show Graphs Checkbox
         show_graphs = st.checkbox('Show Graphs')
 
-        st.title('Apache JMeter Load Test Results')
+        # Show Profiling Report
+        profile_report = st.button('Generate Profiling Report')
+       
+        # Generate Profiling Report
 
+        if profile_report:
+            st.write('Generating Report for ', filename)
+            pd_profile(filename)
+
+
+        st.title('Apache JMeter Load Test Results')
         data = pd.read_csv(DATA_URL)
         
         #Display Start Time
