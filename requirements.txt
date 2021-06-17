@@ -1,4 +1,4 @@
 pandas
 numpy 
-streamlit
+streamlit==0.83.0
 pandas-profiling
