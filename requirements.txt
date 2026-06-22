@@ -1,4 +1,4 @@
 pandas
-numpy 
+numpy==2.5.0 
 streamlit
 pandas-profiling
